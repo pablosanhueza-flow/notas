@@ -1,2 +1,2 @@
 # Inbox
-- [ ] test
+- [x] test
