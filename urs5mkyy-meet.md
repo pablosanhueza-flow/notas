@@ -1,0 +1,41 @@
+# meet-mlp-Revisión Resumen Anual
+
+*Wednesday, 12/11/2025 15:00*
+
+- Relatores
+  - N: Nelson
+  - SR: Sebastián Rivadeneira
+  - F: Francisco
+  - EL: Eduardo Loyola
+- Entradas:
+  - [todo] La pp en tasa mm caídos y en l/s
+  - F: Es dificil de trazar ya que es un balance muy grande, no se puede visualizar las recirculaciones de mauro a planta.
+  - N: dice que esta de acuerdo con F, se debe hacer por procesos pero además por sub-procesos.
+  - [todo] SR: Generar balances por sectores.
+  - F: modelo de suministro puede servir como punto de partida para el MBIO
+  - [todo] Validar la hoja ICMM con el equipo de acompañamiento a Franciscos, que es el que acompaña Denisse.
+  - [todo] N: INCO, PAO, FA , EVU Deben ir cada uno su línea. Desagregar las fuentes en el balance.
+  - N: Pozos PRP:Promedio anual historico, solo CB, cuando este el EVU, y habría que ver el Balance TM, porque estos pozos quedan fuera en EVU.
+  - N: Nelson hablo de coeficientes de escorrentia a F, y este dijo que le iba a enviar eso a nosotros por correo.
+  - N: Aguas del valle, sanitaria, a la cual MLP tiene conectadas algunas instalaciones, las oficinas del puerto, esas pagan una cuenta de agua "aguas del valle", no es que un flujo que se ocupe en el proceso productivo utiliza agua potable. Nelson dice que lo mantengamos.
+  - N: Requerimiento consumo humano: la zona cordillera tiene la bocataoma piuquenes captura agua para agua de sello, para agua de red de incendios, para agua potable y tambien para planta Moly y concetraducto, chacay 100 % solo para consumo humano. Recuperas aguas campemento mina y chacay, son mas o menos 3 l/s.
+  - F: las aguas tratadas de chacay son recirculadas a la planta (en el modelo de suministro). Dice que esta del orden 14 l/s. como dijo sebastian, pero es una recirculacion, estarias contando dos veces (es como contabilizar chacay y piuquenes dos veces).
+  - [todo] S: revisar este Requerimiento consumo humano.
+- Salidas:
+  - Retencion_rebose_TQ:
+    - N: Retencion_rebose_TQ hay que rebosar relaves a TQ, declarado como tranque de emergencia operacion, cada cierto tiempo hay que rebosar a TQ. En algún momento se pensó en recuperar esa agua.
+    - F: 100 ton al año se rebosan
+    - S: [todo] estimarlo en el historio de la reportabilidad.
+  - Riego de bosques:
+    - Riego de bosques en el sector del puerto, se obtiene del filtrado del concentrado que llega al puerto. Llega la planta FALP (aire disuelto), luego eso se dispone en unas piscina al costado de los bosques y que se riega los bosques en la temporada de verano.
+  - N: el concentrado tmb se va con agua, alrededor de 8%. Seguramente en el plan minerao CB y CD el unico input de entrada para el goldsim es el tratamiento planta. Si quieres tener un input en el agua concentrado, si sabes cuanto concentrado de cobre va a llegar al puerto al año, entonces sabes que alrededor del 8% se va en el barco. Se podría calcular
+  - Control de Polvo en Mina:
+    - N: Ponerle un número? consumo interior mina, sirve para supresion de polvo, tambien se utiliza para riego de la mina, y lo utilizan tmb para efectos de refrigeracion de los chancadores primarios.
+    - [todo] Ver si se puede desagruparlo de la supresion de polvo con consumo interior mina.
+  - Almacenamiento:
+    - [todo] mostrar por el almacenamiento por tranques, y no agrupado como "diferencia de almacenamiento". Desagrupar y mostrar cada uno de los distintos almacenamientos:[todo] Nelson menciono agrupar la batimetria (no es de balance) pero podria agregarse asi como las tasas de precipitacion.
+- Dashboard:
+  - Incorporar selecto de fecha de término de Aguas Mina.
+  - Cuando termina las aguas superficiales.
+- Sensibilizacion de cp, para ver desde el punto de vista operacional, que significa operar con otro cp, para ver een que fecha mas menos se nos iba a agotar el agua del TM de la laguna.
+- Hay que ver que pide AMSA.
