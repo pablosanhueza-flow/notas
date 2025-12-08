@@ -23,7 +23,3 @@
 - Preguntar que es el Tunel Mauro, porque va a parar al acuifero igual que las infiltraciones de relaves
 - Reunion con E.L. 24/11/2025
   - El MdS solo considera el agua superficial del paper de Barrera & Pintos.
-
-
-
-
