@@ -101,13 +101,31 @@ keep_target = false
 type = "extract"
 title = "Extract"
 link_type = "markdown"
-key_template = "{{id}}"
+key_template = "files/{{id}}"
+
+[actions.extract_task]
+type = "extract"
+title = "Extract Task"
+link_type = "markdown"
+key_template = "files/{{id}}-task"
+
+[actions.extract_meet]
+type = "extract"
+title = "Extract Meet"
+link_type = "markdown"
+key_template = "files/{{id}}-meet"
+
+[actions.extract_learn]
+type = "extract"
+title = "Extract Learn"
+link_type = "markdown"
+key_template = "files/{{id}}-learn"
 
 [actions.extract_all]
 type = "extract_all"
 title = "Extract all subsections"
 link_type = "markdown"
-key_template = "{{id}}"
+key_template = "files/{{id}}"
 
 [actions.expand]
 type = "transform"
