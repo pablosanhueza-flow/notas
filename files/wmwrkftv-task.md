@@ -9,3 +9,5 @@
 *Tuesday, 09/12/2025*
 
 - Ruta de la Hoja ICMM para el MSH [G:\Unidades compartidas\03.2 Proyectos MLP2\12. AcompañamientoEstrategiaHídricaOperacionalMLP\03.WIP\02.Hidrología\00. Modelo de Pérdida\MdO(2025.11.01)\MSH Nov25 PLAN SEMANAL (01.12.25).xlsm]
+
+
