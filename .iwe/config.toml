@@ -101,11 +101,17 @@ keep_target = false
 type = "extract"
 title = "Extract"
 link_type = "markdown"
-key_template = "files/{{id}}"
+key_template = "{{id}}"
 
 [actions.extract_all]
 type = "extract_all"
 title = "Extract all subsections"
+link_type = "markdown"
+key_template = "{{id}}"
+
+[actions.extract_files]
+type = "extract"
+title = "Extract"
 link_type = "markdown"
 key_template = "files/{{id}}"
 

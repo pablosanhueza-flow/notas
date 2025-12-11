@@ -12,6 +12,6 @@
 - [done] Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros
 - [done] Uso de extintores
 
-[Uso de Extintores](files/uso-de-extintores.md)
+[Uso de Extintores](uso-de-extintores.md)
 
-[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](files/jpwb2qmt.md)
+[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt.md)
