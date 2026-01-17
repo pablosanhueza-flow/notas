@@ -6,3 +6,8 @@
 
 [task-mlp-revision resumen anual](files/wbomtzdl-task.md)
 
+- [ ] hora dentista por el frio
+- [ ] hora madre med general
+- [ ] bajar el manubrio de la bici
+      
+
