@@ -111,7 +111,7 @@ key_template = "{{id}}"
 
 [actions.extract_files]
 type = "extract"
-title = "Extract"
+title = "Extract to Files"
 link_type = "markdown"
 key_template = "files/{{id}}"
 

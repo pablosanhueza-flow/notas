@@ -1,17 +1,26 @@
 # Capacitaciones ACHS
 
-#task/todo #flow
-
-- Radiacion UV
-- Difusion del protocolo de vigilancia opcupaciona por exposion a factores de riesgo TMERT
-- Manejo Manual de cargas (2 hrs, no esta)
-- Ley karin I y II (4 hrs, no lo haré)
-- Primera respuesta frente a emergencias de salud
-- Protocolos de riegos psicosociales (16 hrs, no hacer)
-- Autocuidado y buenas practicas para el bienestar en Teletrabajo
-- [done] Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros
-- [done] Uso de extintores
+[Medidas preventivas frende a radiación UV](rr5noasr.md)
 
 [Uso de Extintores](uso-de-extintores.md)
 
 [Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt.md)
+
+## Capacitaciones 2025
+
+#task/todo #flow
+
+- Primera respuesta frente a emergencias de salud
+- Protocolos de riegos psicosociales (16 hrs, no hacer)
+- Manejo Manual de cargas (2 hrs, no esta)
+- Lider en la promocion del buen trato
+
+NO Hacer:
+
+- [done] Radiacion UV
+- [done] Difusion del protocolo de vigilancia opcupaciona por exposion a factores de riesgo TMERT
+- Ley karin I y II (4 hrs, no lo haré)
+- [done] Autocuidado y buenas practicas para el bienestar en Teletrabajo
+- [done] Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros
+- [done] Uso de extintores
+
