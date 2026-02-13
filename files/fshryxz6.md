@@ -1,0 +1,24 @@
+# Primera respuesta frente a emergencias de salud
+
+- El objetivo de este curso es car a conocer conceptos generales y maniobras básicas de primera respuesta mientras llega la atención médica o enfermería.
+- Mantener a la persona de forma horizontal en el suelo
+- Paro Cardirrespiratorio
+  - Reanimacion Cardiopulmonar (RCP):
+    - Reconocimiento y activacion de respuesta a emergencias.
+    - RCP de calidad inmediata
+    - Desfrilación rápida
+    - Servicios de emergencias médicas básicos y avanzados
+  - Se considera que una persona está en Paro Cardiorrespiratorio cuando presenta los siguientes sintomas:
+    - Pérdida de conciencia
+    - Ausencia de respiración
+    - Ausencia de circulación
+  - Masaje cardíaco externo
+    - Sacude a la persona para ver si responde
+    - Sitúa a la persona en una superticie firme.
+    - Ubica el punto en el esternón
+    - Realiza compresines torácicas 100 a 120 compreriones por minuto, con una profundidad entre 5 a 6 centímetros en adultos.
+    - Continua sin interrupciones, alterna con otra persona cada 2 minuto.
+    - Sigue harta que llegue ayuda.
+  - Maniobra de Heimlich
+    - Presiona con fuerza hacia adentro y hacia arriba, en un movimiento rápido, como si Dibujaras una C invertida.
+    - Si la persona pierde el conocimiento, colócala en el suelo y comienza RCP.

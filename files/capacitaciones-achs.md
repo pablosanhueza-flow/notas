@@ -1,14 +1,8 @@
 # Capacitaciones ACHS
 
-[Medidas preventivas frende a radiación UV](rr5noasr.md)
-
-[Uso de Extintores](uso-de-extintores.md)
-
-[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt.md)
+#work
 
 ## Capacitaciones 2025
-
-#task/todo #flow
 
 - Primera respuesta frente a emergencias de salud
 - Protocolos de riegos psicosociales (16 hrs, no hacer)
@@ -24,3 +18,10 @@ NO Hacer:
 - [done] Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros
 - [done] Uso de extintores
 
+[Primera respuesta frente a emergencias de salud](fshryxz6.md)
+
+[Medidas preventivas frende a radiación UV](rr5noasr.md)
+
+[Uso de Extintores](uso-de-extintores.md)
+
+[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt.md)
