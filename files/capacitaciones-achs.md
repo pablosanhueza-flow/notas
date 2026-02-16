@@ -4,13 +4,13 @@
 
 ## Capacitaciones 2025
 
-- Primera respuesta frente a emergencias de salud
-- Protocolos de riegos psicosociales (16 hrs, no hacer)
+- Protocolos de riegos psicosociales (16 hrs)
 - Manejo Manual de cargas (2 hrs, no esta)
 - Lider en la promocion del buen trato
 
 NO Hacer:
 
+- [done] Primera respuesta frente a emergencias de salud
 - [done] Radiacion UV
 - [done] Difusion del protocolo de vigilancia opcupaciona por exposion a factores de riesgo TMERT
 - Ley karin I y II (4 hrs, no lo haré)
