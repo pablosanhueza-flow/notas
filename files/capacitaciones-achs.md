@@ -5,11 +5,11 @@
 ## Capacitaciones 2025
 
 - Protocolos de riegos psicosociales (16 hrs)
-- Manejo Manual de cargas (2 hrs, no esta)
-- Lider en la promocion del buen trato
 
 NO Hacer:
 
+- [done] Manejo Manual de cargas (2 hrs, no esta)
+- [done] Lider en la promocion del buen trato
 - [done] Primera respuesta frente a emergencias de salud
 - [done] Radiacion UV
 - [done] Difusion del protocolo de vigilancia opcupaciona por exposion a factores de riesgo TMERT
