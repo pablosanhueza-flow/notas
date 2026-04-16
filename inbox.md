@@ -25,12 +25,14 @@ Trazabilidad
 
 ## Gestión de Proyectos 
 
+**Equipo**:
 - ¿Funciona para ustedes las definiciones de equipos en los proyectos que ejecutamos?
 
 Piensa la escala de carrera de flow, sirve eso para mí en los proyectos?
 
 - Qué mejoras implementaría, son realistas o realizables
 
+**Entregables**
 - si tú fueras el cliente, ¿Que esperarías recibir de parte de su consultor experto?
 
 - cómo se compara este deseo o aspiración con lo que producimos en realidad.
