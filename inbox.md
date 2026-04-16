@@ -24,7 +24,14 @@ Suministros
 Trazabilidad
 
 > [!tip]
-> La idea de este call out es mostrar algo importante 
+> La idea de este call out es mostrar algo importante
+>
+
+> [!danger]
+> Peligro
+>
+
+Texto normal 
 
 
 
