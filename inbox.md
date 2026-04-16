@@ -15,7 +15,13 @@ Dos instancias para modificar un proyecto:
 - Kick off(de cuando el proyecto se comunica a todos los involucrados)
 
 ## Logística de Proyectos
-Abel Cáceres 
+Abel Cáceres : Es la Nuri del CEA
+
+Abastecimiento 
+Distribuidora 
+logística Inversa (retorno de los equipos)
+Suministros 
+Trazabilidad 
 
 
 
