@@ -29,8 +29,9 @@ Trazabilidad
 
 Piensa la escala de carrera de flow, sirve eso para mí en los proyectos?
 
-
 - Qué mejoras implementaría, son realistas o realizables
+
+- 
 
 - 
 
