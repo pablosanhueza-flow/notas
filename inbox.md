@@ -28,7 +28,7 @@ Trazabilidad
 **Equipo**:
 - ¿Funciona para ustedes las definiciones de equipos en los proyectos que ejecutamos?
 
-- si funciona la comunicación se trasmite bien, porque pueden darte ideas que otro rol no vio.
+    - si funciona la comunicación se trasmite bien, porque pueden darte ideas que otro rol no vio.
 
 - Qué mejoras implementaría, son realistas o realizables
 
