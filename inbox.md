@@ -55,7 +55,7 @@ Trazabilidad
 
 
 - Complejidades de la planificación
-  - jsj
+  - 
 - que estrategias profesionales proponen
 - que responsabilidad tengo yo
 
