@@ -28,16 +28,28 @@ Trazabilidad
 **Equipo**:
 - ¿Funciona para ustedes las definiciones de equipos en los proyectos que ejecutamos?
 
-Piensa la escala de carrera de flow, sirve eso para mí en los proyectos?
+- si funciona la comunicación se trasmite bien, porque pueden darte ideas que otro rol no vio.
 
+- 
 - Qué mejoras implementaría, son realistas o realizables
+
+- Comunicación y transparencia en la comunicación. Implementar esa instancia.
+- que el senior o el cliente intérprete bien lo que realmente o que incluso desafie  al cliente
 
 **Entregables**
 - si tú fueras el cliente, ¿Que esperarías recibir de parte de su consultor experto?
 
+Que me da la solución al problema o que me de una guía de como resolver el problema.
+
 - cómo se compara este deseo o aspiración con lo que producimos en realidad.
 
-- Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir 
+  - 
+
+- ¿Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir ?
+
+- no siempre, muchas veces el análisis debe simplificarse por temas de tiempo.
+
+- a veces la misma curiosidad te lleva a las ramas.
 
 
 
