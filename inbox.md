@@ -32,24 +32,24 @@ Trazabilidad
 
 - Qué mejoras implementaría, son realistas o realizables
 
-- Comunicación y transparencia en la comunicación. Implementar esa instancia.
+   - Comunicación y transparencia en la comunicación. Implementar esa instancia.
 
-- que el senior o el cliente intérprete bien lo que realmente o que incluso desafie  al cliente
+- que el senior o el cliente intérprete bien lo que realmente o que incluso desafié al cliente
 
 **Entregables**
 - si tú fueras el cliente, ¿Que esperarías recibir de parte de su consultor experto?
 
-Que me da la solución al problema o que me de una guía de como resolver el problema.
+    - Que me da la solución al problema o que me de una guía de como resolver el problema.
 
 - cómo se compara este deseo o aspiración con lo que producimos en realidad.
 
-  - En qué la idea es que nosotros resolvamos ese problema.
+    - En qué la idea es que nosotros resolvamos ese problema.
 
 - ¿Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir ?
 
-- no siempre, muchas veces el análisis debe simplificarse por temas de tiempo. El informe y las conclusiones se apuran y no se meditan adecuadamente.
+    - no siempre, muchas veces el análisis debe simplificarse por temas de tiempo. El informe y las conclusiones se apuran y no se meditan adecuadamente.
 
-- a veces la misma curiosidad te lleva a las ramas.
+    - a veces la misma curiosidad te lleva a las ramas.
 
 
 
