@@ -31,11 +31,11 @@ Piensa la escala de carrera de flow, sirve eso para mí en los proyectos?
 
 - Qué mejoras implementaría, son realistas o realizables
 
-- 
+- si tú fueras el cliente, ¿Que esperarías recibir de parte de su consultor experto?
 
-- 
+- cómo se compara este deseo o aspiración con lo que producimos en realidad.
 
-- 
+- Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir 
 
 
 
