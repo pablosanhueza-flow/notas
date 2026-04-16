@@ -34,7 +34,7 @@ Trazabilidad
 
    - Comunicación y transparencia en la comunicación. Implementar esa instancia.
 
-- que el senior o el cliente intérprete bien lo que realmente o que incluso desafié al cliente
+   - que el senior o el cliente intérprete bien lo que realmente o que incluso desafié al cliente
 
 **Entregables**
 - si tú fueras el cliente, ¿Que esperarías recibir de parte de su consultor experto?
