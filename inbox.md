@@ -23,7 +23,13 @@ logística Inversa (retorno de los equipos)
 Suministros 
 Trazabilidad
 
-> 
+## Gestión de Proyectos 
+
+- ¿Funciona para ustedes las definiciones de equipos en los proyectos que ejecutamos?
+
+
+
+- Qué mejoras implementaría, son realistas o realizables
 
 
 
