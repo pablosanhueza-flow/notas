@@ -27,9 +27,14 @@ Trazabilidad
 
 - ¿Funciona para ustedes las definiciones de equipos en los proyectos que ejecutamos?
 
+Piensa la escala de carrera de flow, sirve eso para mí en los proyectos?
 
 
 - Qué mejoras implementaría, son realistas o realizables
+
+- 
+
+- 
 
 
 
