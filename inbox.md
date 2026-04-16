@@ -51,6 +51,13 @@ Trazabilidad
 
     - a veces la misma curiosidad te lleva a las ramas.
 
+### Segunda Ronda
+
+
+- Complejidades de la planificación
+ - jsj
+- que estrategias profesionales proponen
+- que responsabilidad tengo yo
 
 
 
