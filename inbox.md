@@ -30,10 +30,10 @@ Trazabilidad
 
 - si funciona la comunicación se trasmite bien, porque pueden darte ideas que otro rol no vio.
 
-- 
 - Qué mejoras implementaría, son realistas o realizables
 
 - Comunicación y transparencia en la comunicación. Implementar esa instancia.
+
 - que el senior o el cliente intérprete bien lo que realmente o que incluso desafie  al cliente
 
 **Entregables**
