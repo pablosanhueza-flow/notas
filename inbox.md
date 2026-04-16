@@ -43,7 +43,7 @@ Que me da la solución al problema o que me de una guía de como resolver el pro
 
 - cómo se compara este deseo o aspiración con lo que producimos en realidad.
 
-  - 
+  - En qué la idea es que nosotros resolvamos ese problema.
 
 - ¿Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir ?
 
