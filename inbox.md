@@ -23,7 +23,7 @@ logística Inversa (retorno de los equipos)
 Suministros 
 Trazabilidad
 
-> [Note]
+> [!tip]
 > La idea de este call out es mostrar algo importante 
 
 
