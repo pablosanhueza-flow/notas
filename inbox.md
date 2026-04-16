@@ -47,9 +47,10 @@ Que me da la solución al problema o que me de una guía de como resolver el pro
 
 - ¿Nos preguntamos.siempre estamos calibrando bien lo que debemos emitir ?
 
-- no siempre, muchas veces el análisis debe simplificarse por temas de tiempo.
+- no siempre, muchas veces el análisis debe simplificarse por temas de tiempo. El informe y las conclusiones se apuran y no se meditan adecuadamente.
 
 - a veces la misma curiosidad te lleva a las ramas.
+
 
 
 
