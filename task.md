@@ -4,7 +4,7 @@
 - [todo] Balance por sectores
 - [todo] Parte mia del memo de Calibracion
 - [todo] Capacitacion ACHS Abril
-
+- Agregar STR al balance de los modelos de fabiola
 ## Ayuda Fabiola
 
 \Resultados_y_Dashboard\Resultados_2025\Resultados_anual
