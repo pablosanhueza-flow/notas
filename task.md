@@ -1,10 +1,7 @@
 # Tasks
 
-- Ayudar Fabiola con las simulaciones
 - [todo] Balance por sectores
 - [todo] Parte mia del memo de Calibracion
-- [Capacitaciones ACHS](files/capacitaciones-achs.md)
-  - Capacitacion ACHS Abril "Orientación en prevención de riesgos de acuerdo con el DS 44".
 - Agregar STR al balance de los modelos de fabiola
 
 ## Ayuda Fabiola
@@ -26,6 +23,9 @@ G:\Unidades compartidas\03.2 Proyectos MLP2\12. AcompañamientoEstrategiaHídric
 "G:\Unidades compartidas\03.2 Proyectos MLP2\12. AcompañamientoEstrategiaHídricaOperacionalMLP\03.WIP\02.Hidrología\61. Largo Plazo\04. Sim CB2026 CorrChoapa (14.04.2026)\CB2026\MBIO V19 CB26 TtoCB25 Repulpeo (15.04.2026).gsm"
 
 ## Log
+
+- [Capacitaciones ACHS](files/capacitaciones-achs.md)
+  - Capacitacion ACHS Abril "Orientación en prevención de riesgos de acuerdo con el DS 44".
 - [done] Memo Github
 - [done] PPT hoja ICMM
 - [done] PPT hoja Balance por sectores
