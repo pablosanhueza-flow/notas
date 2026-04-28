@@ -1,10 +1,12 @@
 # Tasks
 
-
+- Ayudar Fabiola con las simulaciones
 - [todo] Balance por sectores
 - [todo] Parte mia del memo de Calibracion
-- [todo] Capacitacion ACHS Abril
+- [Capacitaciones ACHS](files/capacitaciones-achs.md)
+  - Capacitacion ACHS Abril "Orientación en prevención de riesgos de acuerdo con el DS 44".
 - Agregar STR al balance de los modelos de fabiola
+
 ## Ayuda Fabiola
 
 \Resultados_y_Dashboard\Resultados_2025\Resultados_anual
@@ -28,7 +30,6 @@ G:\Unidades compartidas\03.2 Proyectos MLP2\12. AcompañamientoEstrategiaHídric
 - [done] PPT hoja ICMM
 - [done] PPT hoja Balance por sectores
 
-[Capacitaciones ACHS](files/capacitaciones-achs.md)
 
 [task-mlp-creacion nueva hoja ICMM](files/wmwrkftv-task.md)
 

@@ -25,3 +25,7 @@ NO Hacer:
 [Uso de Extintores](uso-de-extintores.md)
 
 [Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt.md)
+
+## Capacitaciones 2026
+
+[Orientación en prevención de riesgos de acuerdo con el DS 44](ccrir0t2.md)
