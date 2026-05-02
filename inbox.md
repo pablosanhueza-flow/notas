@@ -8,3 +8,4 @@ Daniela 36 meses (60% de las primas pagadas) 18.000 mensual (0.46 UF) con 4 mese
 - [ ] Arreglar el problema del excel de las formulas
 - [ ] Necesito arreglas el problema del git
 - [ ] Necesito arreglas el problema del git2
+- [ ] Necesito arreglas el problema del git3
