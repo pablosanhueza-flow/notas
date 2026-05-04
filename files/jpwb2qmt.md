@@ -11,7 +11,6 @@
 - Resultados de la encuesta nacional de autoriodad (2022) para que una jefatura sea obedecida.
   - Capacidad de motivar a quienes trabajan, la expertise y la capacidad de dialogo
   - Importancia de los empleados a que los vigilen o los despidan.
-
   - Las personas perciben de forma distinta la autoridad por ejemplo si viene de una mujer o hombre.
   - el mantenimiento de soportes de la autoridad en el trabajao se vincula con 2 aspectos.
     - El diagnostico compartido de la poca tendencia a la obediencia que tiene las persona en CHile.
@@ -27,23 +26,20 @@
     - Compartir con quienes trabajan los proyectos dirigidos a lograr un cambio.
   - Ambiente positivo y coherente. (trabajo en equipo, informar sobre decisiones importantes).
 
----
+------------------------------------------------------------------------
 
 - Beneficios de liderez efectivos:
   - mejorar servicio, clientes
-  - mejorar la relacion entre los que 
-
+  - mejorar la relacion entre los que
 - Inconvenientes de no tener lideres efectivos:
   - estres, ansiedad, depresion y problemas de salud mental.
   - falta de direccion, desorganizacion y caos.
   - trabajo insatisfactorio, trabajo carece de sentido.
   - Clima laboral negativo.
-
 - el cuestionario CEAL-SM/ SUSESO describe algunas de las posibles intervenciones para prevenir:
   - Presencia activa del lider, visitas periodoas a quienes trabajan en sus áreas de trabajo.
   - La organizacion se compromete con la bienestar de la organizacion.
-  -  Implementar indicadores de calidad
-
+  - Implementar indicadores de calidad
 - Aprendizajes:
   - La calidad de liderazgo es la FORMA en que se expresa el mando de una jefatura sobre nosotros.
   - Existen 4 preguntas del cuestionario CEAL-SM / SUSESO que permite evaluar la dimension calidad de liderazgo para pensar posibles intervenciones.
