@@ -1,4 +1,4 @@
-version = 2
+version = 3
 
 [markdown]
 refs_extension = ".md"
@@ -8,16 +8,6 @@ date_format = "%b %d, %Y"
 path = ""
 date_format = "%Y-%m-%d"
 
-[models.default]
-api_key_env = "OPENAI_API_KEY"
-base_url = "https://api.openai.com"
-name = "gpt-4o"
-
-[models.fast]
-api_key_env = "OPENAI_API_KEY"
-base_url = "https://api.openai.com"
-name = "gpt-4o-mini"
-
 [actions.sort]
 type = "sort"
 title = "Sort A-Z"
@@ -26,8 +16,8 @@ reverse = false
 [actions.keywords]
 type = "transform"
 title = "Keywords"
-model = "default"
-prompt_template = """
+command = "default"
+input_template = """
 Here's a text that I'm going to ask you to edit. The text is marked with {{context_start}}{{context_end}} tag.
 
 The part you'll need to update is marked with {{update_start}}{{update_end}}.
@@ -42,13 +32,12 @@ The part you'll need to update is marked with {{update_start}}{{update_end}}.
 
 Mark most important keywords with bold using ** markdown syntax. Keep the text unchanged!
 """
-context = "Document"
 
 [actions.rewrite]
 type = "transform"
 title = "Rewrite"
-model = "default"
-prompt_template = """
+command = "default"
+input_template = """
 Here's a text that I'm going to ask you to edit. The text is marked with {{context_start}}{{context_end}} tag.
 
 The part you'll need to update is marked with {{update_start}}{{update_end}}.
@@ -64,13 +53,12 @@ The part you'll need to update is marked with {{update_start}}{{update_end}}.
 
 Your goal is to rewrite a given text to improve its clarity and readability. Ensure the language remains personable and not overly formal. Focus on simplifying language, organizing sentences logically, and removing ambiguity while maintaining a conversational tone.
 """
-context = "Document"
 
 [actions.emoji]
 type = "transform"
 title = "Emojify"
-model = "default"
-prompt_template = """
+command = "default"
+input_template = """
 Here's a text that I'm going to ask you to edit. The text is marked with {{context_start}} {{context_end}} tags.
 
 - The part you'll need to update is marked with {{update_start}} {{update_end}} tags.
@@ -84,7 +72,6 @@ Here's a text that I'm going to ask you to edit. The text is marked with {{conte
 
 {{context_end}}
 """
-context = "Document"
 
 [actions.sort_desc]
 type = "sort"
@@ -118,8 +105,8 @@ key_template = "files/{{id}}"
 [actions.expand]
 type = "transform"
 title = "Expand"
-model = "default"
-prompt_template = """
+command = "default"
+input_template = """
 Here's a text that I'm going to ask you to edit. The text is marked with {{context_start}}{{context_end}} tag.
 
 The part you'll need to update is marked with {{update_start}}{{update_end}}.
@@ -135,7 +122,6 @@ The part you'll need to update is marked with {{update_start}}{{update_end}}.
 
 Expand the text you need to update, generate a couple paragraphs.
 """
-context = "Document"
 
 [actions.link]
 type = "link"
@@ -157,4 +143,12 @@ type = "inline"
 title = "Inline quote"
 inline_type = "quote"
 keep_target = false
+
+[commands]
+
+[commands.default]
+run = ""
+
+[commands.fast]
+run = ""
 
