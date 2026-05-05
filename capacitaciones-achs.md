@@ -18,14 +18,14 @@ NO Hacer:
 - [done] Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros
 - [done] Uso de extintores
 
-[Primera respuesta frente a emergencias de salud](fshryxz6-achs)
+[Primera respuesta frente a emergencias de salud](fshryxz6-achs.md)
 
-[Medidas preventivas frende a radiación UV](rr5noasr-achs)
+[Medidas preventivas frende a radiación UV](rr5noasr-achs.md)
 
-[Uso de Extintores](uso-de-extintores-achs)
+[Uso de Extintores](uso-de-extintores-achs.md)
 
-[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt-achs)
+[Impacto de la calidad del liderazgo en espacios de trabajo sanos y seguros.](jpwb2qmt-achs.md)
 
 ## Capacitaciones 2026
 
-[Orientación en prevención de riesgos de acuerdo con el DS 44](ccrir0t2-achs)
+[Orientación en prevención de riesgos de acuerdo con el DS 44](ccrir0t2-achs.md)

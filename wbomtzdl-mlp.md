@@ -2,7 +2,7 @@
 
 *Friday, 14/11/2025 13:36*
 
-- Estas tareas surgen de la reunion con Nelson y Francisco [meet-mlp-Revisión Resumen Anual](urs5mkyy-meet)
+- Estas tareas surgen de la reunion con Nelson y Francisco [meet-mlp-Revisión Resumen Anual](urs5mkyy-meet.md)
 - Las tareas que hablamos con el SR:
   - [todo] (preguntar a reportabilidad el excel) Balances por sectores, balance mauro, balance quillayes y balance planta
     - La ruta de los excel de reportabilidad es [G:\Unidades compartidas\03.2 Proyectos MLP2\12. AcompañamientoEstrategiaHídricaOperacionalMLP\03.WIP\02.Hidrología\00. Modelo de Pérdida\MdO(2025.11.01)]
