@@ -5,7 +5,8 @@
 ## Next Actions
 
 - [Informe Calibracion MBIO V19](ynzd4t1p-mlp.md)
-- Agregar STR al balance de los modelos de fabiola
+- [ ] Trámite FSCU
+- [ ] Curso ACHS Mayo
 
 ## Waiting
 
