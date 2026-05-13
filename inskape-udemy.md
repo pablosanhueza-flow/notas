@@ -21,5 +21,9 @@ S = Shift C = Control
   - esta figura puede ajustarse con las flechas de su borde pero esto no nos da mucho control.
     - Se selecciona *Edit paths by Nodes (N)* a la izquierda en la barra: tenemos acceso a los nodos de la figura.
       - Si se seleccionan dos nodos y luego al medio se puede crear una curva entre los dos.
-- Curved Arrow: Crear normalmente con bezier tool, Edit path by nodes, curvar la figura como antes. Luego para crear la flecha se debe ir al menu "Object-Fill and Stroke" luego ir a Stroke Style
-- Stroke: para inskape son las lineas!
+- Curved Arrow: Crear normalmente con bezier tool, Edit path by nodes, curvar la figura como antes. Luego para crear la flecha se debe ir al menu "Object-Fill and Stroke" luego ir a Stroke Style.
+- *Stroke Style*: se puede modificar el color, el grosor e incluso el largo de la linea.
+  - *Marker*: es lo que entiende inskape para poner las flechas.
+- *Stroke:* para inskape son las lineas!
+- Se pueden crear figuras mas complicadas con esta herramienta que una flecha en la linea.
+  - Si cierro la figura de nodos creo una estructura cerrada o un *objeto*, puedo crear curvas como si fueran lineas sueltas.
