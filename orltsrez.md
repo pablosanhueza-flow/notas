@@ -1,5 +1,9 @@
 # ODS-21B-Afloramiento Piuquenes
 
+## Rutas
+
+- ReadAI: "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\07.Entregables\02.Minutas\Transcripciones"
+
 ## Primera reunion ODS-21B-Afloramiento Piuquenes con Carolina
 
 - Ruta con paths de trabajo que es un word.
@@ -25,15 +29,12 @@
 - Por ejemplo, Cuantos son los pozos recomendados que hay que agregar al afloramiento piuquenes
 - Gestion de informacion, pedirle info a la maitte por ejemplo.
 
-## Reunión de avance ODS21b Afl Piuquenes
-
-**13-05-2025**
+## Reunión de avance ODS21b Afl Piuquenes 13-05-2025
 
 - F:Francisca
 - C: Claudia
 - Ca: Carolina
 - R: Raul Hume
-- ReadAI: "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\07.Entregables\02.Minutas\Transcripciones"
 
 ------------------------------------------------------------------------
 

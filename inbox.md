@@ -4,4 +4,4 @@
 - [ ] Desocupar cel de viejo y la madre, desactivar la sinceronizar con google fotos
 - [ ] Arreglar el problema del excel de las formulas
 
-[Primera reunion ODS-21B-Afloramiento Piuquenes](orltsrez.md)
+[ODS-21B-Afloramiento Piuquenes](orltsrez.md)
