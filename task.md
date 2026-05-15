@@ -4,8 +4,9 @@
 
 ## Next Actions
 
-- [ ] Trámite FSCU
+- [x] Trámite FSCU
 - [ ] Curso ACHS Mayo
+- [ ] Completar los documentos
 
 ## Waiting
 
