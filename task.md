@@ -11,6 +11,7 @@
 - [ ] Trámite FSCU
 - [ ] Leer el Ord108 y dar opiniones 
 - [ ] Curso ACHS Mayo
+- [ ] TODO: que anote mis horas de la minuta y de las reus de traspaso
 
 
 ## Waiting
