@@ -10,7 +10,7 @@
 
 - [x] Trámite FSCU
 - [ ] Curso ACHS Mayo
-- [ ] Completar los documentos
+- [x] Completar los documentos
 
 ## Waiting
 
