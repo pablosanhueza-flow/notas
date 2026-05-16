@@ -8,7 +8,7 @@
 
 ## Next Actions
 
-- [x] Trámite FSCU
+- [ ] Trámite FSCU
 - [ ] Leer el Ord108 y dar opiniones 
 - [ ] Curso ACHS Mayo
 - [x] Completar los documentos
