@@ -4,7 +4,7 @@
 
 **Friday 15-05-2026** **AVISARLE FRANCISCA QUE TENGO QUE HACERME LOS EXAMENES**
 
-- [Reunión Iniciada]
+- [Reunión Iniciada] Esta en team la grabaciones
 - Esto es nuevo es un seguimiento! si queda algo pendiente no enviado, asugurarme que la informacion haya siga entregada.
 - Estoy atrasado 3 minutos con respecto al timer de la reunion (seran el tiempo de inicia)
 - [00:40] Seguimiento de antecedentes que tendre que hacerle un seguiminto de EDIT
@@ -44,4 +44,4 @@
 - [61:58] La otra semana va a ser de Lunes a miercoles
 - [63:05] Reporte de EDP19 que lo tiene que ver Gustavo, en realidad es solo anotar mis activides.
 - Agrupar actividades del mismo tipo, no dar tanto detalles
-- Ejemplo de revision de informe para ORD108: G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012 - Proyectos Chacay\03.WIP\02.Hidrología\Barrera Hidráulica\02. Revisión\02. Informe\01. Noviembre 2025
+- Ejemplo de revision de informe para ORD108: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012 - Proyectos Chacay\03.WIP\02.Hidrología\Barrera Hidráulica\02. Revisión\02. Informe\01. Noviembre 2025]
