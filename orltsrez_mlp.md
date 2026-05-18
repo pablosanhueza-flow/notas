@@ -3,6 +3,7 @@
 ## Rutas
 
 - ReadAI: "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\07.Entregables\02.Minutas\Transcripciones"
+- Minutas WIP "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\03.WIP\02.Hidrología\01. Minutas"
 
 ## Primera reunion ODS-21B-Afloramiento Piuquenes con Carolina
 

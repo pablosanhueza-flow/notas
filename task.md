@@ -2,11 +2,11 @@
 
 [Log](log.md)
 
+[ODS-21B-Afloramiento Piuquenes](orltsrez_mlp.md)
+
 [Traspaso ORD108](2tid1rkd_mlp.md)
 
 [Traspaso ORD716 Medición aguas halladas STMG](nosmgxtc_mlp.md)
-
-[ODS-21B-Afloramiento Piuquenes](orltsrez_mlp.md)
 
 ## Next Actions
 
