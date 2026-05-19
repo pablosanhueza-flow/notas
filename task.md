@@ -10,11 +10,11 @@
 
 ## Next Actions
 
+- [ ] Leer "Revisión de informe ODS23b, Memoria de cálculo hidráulico"
 - [ ] Trámite FSCU
 - [ ] Curso ACHS Mayo
 - [ ] TODO VIERNES: que anote mis horas de la minuta y de las reus de traspaso
 - [ ] Música para presentar el proximo lunes
-- [ ] Leer "Revisión de informe ODS23b, Memoria de cálculo hidráulico"
 
 ## Waiting
 

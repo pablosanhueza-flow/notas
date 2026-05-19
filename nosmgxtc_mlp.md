@@ -45,3 +45,9 @@
 - [63:05] Reporte de EDP19 que lo tiene que ver Gustavo, en realidad es solo anotar mis activides.
 - Agrupar actividades del mismo tipo, no dar tanto detalles
 - Ejemplo de revision de informe para ORD108: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012 - Proyectos Chacay\03.WIP\02.Hidrología\Barrera Hidráulica\02. Revisión\02. Informe\01. Noviembre 2025]
+
+## Revision del Informe Barrera hidraulica
+
+- Ejemplo de revision de informe para ORD108: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012 - Proyectos Chacay\03.WIP\02.Hidrología\Barrera Hidráulica\02. Revisión\02. Informe\01. Noviembre 2025]
+- Esta revisión solo se hizo para ver que comentarios puedo hacer
+- ABQ : Aguas abajo de Tranque Quillayes
