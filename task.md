@@ -8,6 +8,8 @@
 
 [Traspaso ORD716 Medición aguas halladas STMG](nosmgxtc_mlp.md)
 
+[Gestion de informacion para EDIC](xtkcla0o.md)
+
 ## Next Actions
 
 - [ ] Leer "Revisión de informe ODS23b, Memoria de cálculo hidráulico"
