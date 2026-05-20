@@ -10,9 +10,6 @@
 ## Correos
 
 - El correo donde se solicita la informacion es "RV: [910-26] OS-4530062282 / Solicitud de antecedentes", donde Flow deberia entregar el punto 1 y el punto 3.
-
-------------------------------------------------------------------------
-
 - Estimada Francisca y Pablo:
 - Junto con saludar, y en el marco del estudio que estamos iniciando, el cual tiene como objetivo la elaboración de un informe orientado a la evaluación y cuantificación del riesgo de eventos de alta turbidez en las bocatomas Choapa-1, Pelambres Alternativa, Pelambre, Piuquenes y Chacay, queríamos solicitar apoyo con el levantamiento de información base necesaria para el análisis de eventos de turbidez asociados a condiciones hidrometeorológicas, con énfasis en la relación entre precipitaciones, isoterma 0 y arrastre de sedimentos en las cuencas de interés.
 - En particular, para poder avanzar en una primera etapa de análisis exploratorio basado en datos históricos, orientado a caracterizar la relación entre precipitaciones, isoterma 0 y eventos de turbidez, necesitamos contar con la siguiente información (en la medida de su disponibilidad):
@@ -26,11 +23,14 @@
     - Acceso o resultados del modelo HIDROCL (en particular predicción de caudales a 5 días)
     - Predicciones hidrometeorológicas para los próximos meses (por ejemplo, resultados asociados al modelo Piuquenes, Choapa en Cuncumen u otros que utilicen internamente).
 3.  Red de monitoreo local:
-    - Confirmación de existencia y disponibilidad de estaciones locales de propiedad de MPL, incluyendo variables como:
     - Nieve
     - Radiación
     - Temperatura
     - Precipitación
     - Otras variables relevantes
 
-------------------------------------------------------------------------
+## WIP
+
+*Wednesday 20-05-2026*
+
+- [Ultima repuesta de Carolina](https://mail.google.com/mail/u/1/#label/Carolina+Huichaquelen/FMfcgzQgLrstMMwDmmDQNNngcDxXnqbc)

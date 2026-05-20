@@ -27,3 +27,10 @@
 - Música para presentar el proximo lunes [ir a youtube](https://www.youtube.com/watch?v=928csZCFwYo)
 
 ## Maybe
+
+## MLP012 AEH SEGUIMIENTO SEMANAL PROYECTO
+
+*Wednesday 20-05-2026*
+
+- Si me preguntan por la Carta Gantt, tengo que decir que esta semana esta dificil por que esta semana por la ausencia de Claudia y Carolina. Pero quizás podriamos avanzar algo.
+- Hacer la minuta de la reunion de hoy con notebook LM.
