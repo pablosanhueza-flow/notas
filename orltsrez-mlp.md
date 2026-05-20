@@ -5,7 +5,9 @@
 - ReadAI: "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\07.Entregables\02.Minutas\Transcripciones"
 - Minutas WIP "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\03.WIP\02.Hidrología\01. Minutas"
 
-## Primera reunion ODS-21B-Afloramiento Piuquenes con Carolina
+## Reuniones
+
+### Primera reunion ODS-21B-Afloramiento Piuquenes con Carolina
 
 - Ruta con paths de trabajo que es un word.
 - 2015 por mucha lluvia aflora agua en el afloraminto piuquenes y llegan aguas abajo. regantes se quejan de que esa agua empeoro. Se han hecho varios estudios de hidrologia para demostrar que
@@ -30,7 +32,7 @@
 - Por ejemplo, Cuantos son los pozos recomendados que hay que agregar al afloramiento piuquenes
 - Gestion de informacion, pedirle info a la maitte por ejemplo.
 
-## Reunión de avance ODS21b Afl Piuquenes 13-05-2025
+### Reunión de avance ODS21b Afl Piuquenes 13-05-2025
 
 - F:Francisca
 - C: Claudia
@@ -54,7 +56,7 @@
   - Hablará con GHD que hizo el modelo si existe un plan de accion si se esta ejecutando.
 - Francisca le pide a Carolina Revisitemos la ingenieria de GHD, porque hay un listado de las actividades, hablar con Nelson que el estaba encargadoen el 2014.
 
-## Reunion con Carolina para explicarme que hacer
+### Reunion con Carolina para explicarme que hacer
 
 - Tomar notas que en las reuniones. Gustavo tiene el ReadAI para la transcripcion, hay que pedirselo por chat.
 - Anotar los min de las cosas para despues volver a revisar.
@@ -67,3 +69,15 @@
   - ordinario 108 es el que tengo que hacer yo, prox martes 19 y los comentarios el miercoles 20, le pregunto al gustavo si no puedo o no entiendo.
   - Opcional, meter al agente FLOW para que me haga la minuta.
   - Cargar las horas, Carolina tiene un excel de minutas. El viernes lo veemos.
+
+### Reunión de avance ODS21b Afl Piuquenes 20-05-2025
+
+*Wednesday 20-05-2026*
+
+- FA: Francisca
+- PS: Pablo
+- RH: Raúl Hume
+
+------------------------------------------------------------------------
+
+- La reunion no se pudo hacer porque Francisca le colapso el computador-
