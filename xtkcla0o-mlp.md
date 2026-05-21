@@ -34,3 +34,4 @@
 *Wednesday 20-05-2026*
 
 - [Ultima repuesta de Carolina](https://mail.google.com/mail/u/1/#label/Carolina+Huichaquelen/FMfcgzQgLrstMMwDmmDQNNngcDxXnqbc)
+- La Maite me envió información de esto que no alcance a revisar
