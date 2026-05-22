@@ -16,6 +16,7 @@
 - Revisar que se ha entregado en EDIC
 - Curso ACHS Mayo
 - VIERNES: que anote mis horas de la minuta y de las reus de traspaso
+- ejemplo 1
 
 ## Waiting
 
