@@ -80,4 +80,5 @@
 
 ------------------------------------------------------------------------
 
-- La reunion no se pudo hacer porque Francisca le colapso el computador-
+- La reunion no se pudo hacer porque Francisca le colapso el computador.
+- Se comprometio una minuta con los avances.
