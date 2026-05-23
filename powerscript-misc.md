@@ -9,6 +9,6 @@
 | pushdh / popd               | agrega la ruta al stack / te lleva de vuelta a la ruta anterior |
 | pwd - Set-Clipboard         | copiar la ruta al clipboard                                     |
 | Get-Alias -Definition Get-ChildItem         | saber los alias de los comandos |
-|ls "*pdf" | % {start $_.FullName}| ejecutar todo los archivos pdf de esa carpeta|
+| ls "*pdf" \| % {start $_.FullName}| ejecutar todo los archivos pdf de esa carpeta|
 
 
