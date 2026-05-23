@@ -8,4 +8,6 @@
 | exit                        | en la consola para cerrar el panel                              |
 | pushdh / popd               | agrega la ruta al stack / te lleva de vuelta a la ruta anterior |
 | pwd - Set-Clipboard         | copiar la ruta al clipboard                                     |
+| Get-Alias -Definition Get-ChildItem         | saber los alias de los comandos                                   |
+
 
