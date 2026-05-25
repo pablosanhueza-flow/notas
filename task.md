@@ -15,8 +15,8 @@
 - Revisar el ORD108
 - Revisar que se ha entregado en EDIC
 - Curso ACHS Mayo
-- VIERNES: que anote mis horas de la minuta y de las reus de traspaso
 - Devolver el cilindro de la silla
+- VIERNES: que anote mis horas de la minuta y de las reus de traspaso
 
 ## Waiting
 
