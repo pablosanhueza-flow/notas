@@ -3,8 +3,17 @@
 - La reunion donde se discutio este tema esta en la nota [Traspaso ORD716 Medición aguas halladas STMG](nosmgxtc-mlp.md)
 - Seguimiento a variables hidrometeorológicas solicitadas por EDIC
 
+## WIP
+
+- [Ultima repuesta de Carolina](https://mail.google.com/mail/u/1/#label/Carolina+Huichaquelen/FMfcgzQgLrstMMwDmmDQNNngcDxXnqbc)
+- La Maite me envió información de esto que no alcance a revisar
+- [x] *Tuesday 26-05-2026* Entregar la parte de la Maria Teresa
+  - Revisar que se ha entregado en EDIC
+  - Se subió a la carpeta sharepoint y se envió el correo el dia *Tuesday 26-05-2026*
+
 ## Rutas
 
+- [ruta de la carpeta sharepoint compartida a cliente](https://flowhydro.sharepoint.com/sites/MLP_Acompanamiento/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2FMLP%5FAcompanamiento%2FDocumentos%20compartidos%2F07%2EEntregables%2F06%2ESIG%2DBD%2F01%2E%20Solicitud%20informaci%C3%B3n%20para%20EDIC%20%2815%2E05%2E2026%29&viewid=5fd7c1c4%2Df860%2D43a0%2D9ea4%2Dd299b007f5a5&p=true)
 - Ruta de los datos [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012 - Proyectos Chacay\03.WIP\02.Hidrología\Proyectos_Chacay\08. Solicitudes SIRH\20260515 Datos para EDIC (análisis riesgo)]
 
 ## Correos
@@ -28,10 +37,3 @@
     - Temperatura
     - Precipitación
     - Otras variables relevantes
-
-## WIP
-
-*Wednesday 20-05-2026*
-
-- [Ultima repuesta de Carolina](https://mail.google.com/mail/u/1/#label/Carolina+Huichaquelen/FMfcgzQgLrstMMwDmmDQNNngcDxXnqbc)
-- La Maite me envió información de esto que no alcance a revisar
