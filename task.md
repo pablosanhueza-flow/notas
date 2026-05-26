@@ -12,6 +12,8 @@
 
 ## Next Actions
 
+- Preguntar el avance de la carta gantt
+  - Claudia fijo una reunion para el martes 26 de may para ver esto con Carlos.
 - Revisar el ORD108
 - Revisar que se ha entregado en EDIC
 - Curso ACHS Mayo
