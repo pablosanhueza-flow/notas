@@ -12,7 +12,7 @@ S = Shift C = Control
 - canvas: documento donde se dibuja, es distinto al papel.
   - Es importante porque las figuras o partes que esten fuera del canvas quedan fuera del canvas.
 
-### Bezier Tool
+### 4. Basic Shapes in Inkscape: Bezier Tool
 
 - Es la herramienta mas util de inskape. Es la diferencia con powerpoint.
 - brush y free hand tool no se usaran por que no es para figuras cientificas.
@@ -27,3 +27,21 @@ S = Shift C = Control
 - *Stroke:* para inskape son las lineas!
 - Se pueden crear figuras mas complicadas con esta herramienta que una flecha en la linea.
   - Si cierro la figura de nodos creo una estructura cerrada o un *objeto*, puedo crear curvas como si fueran lineas sueltas.
+
+### 5. Basic Shapes in Inkscape: Text Objects
+
+- Es importante incluir textos el inkscape.
+- Create and edit text object es la herramienta, en el panel izq.
+- Apretamos y escribimos creamos un "Text Objects".
+- Doble click para editar el font, entre otras cosas, en el menu superior.
+- Para las figuras cientificas es importantue la consistencia entre el font y el tamaño.
+- Crear un text box:
+  - Se tiene que crear un rectangulo alrededor de la figura, con el "rectangle tool" del menu de la derecha alrededor del texto, no es como powerpoint.
+- El presentador remarca que no el programa no es un editor de texto, entonces es bastante limitado lo que se puede hacer.
+
+### 6. Example Problem 1: Two Asymmetric Circles
+
+- C + S y mueve el raton para dibujar un circulo desde el centro.
+- Pen tool/ Bezier Path + CTRL : dibuja una linea vertical o horizontal.
+- Para cambiar el font de un Text Objectes tienes que hacer doble click, seleccionar el texto y en el menu de arriba cambiar el tamaño.
+- S + Click: Me permite seleccionar varios objetos a la vez.
