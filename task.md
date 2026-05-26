@@ -2,21 +2,19 @@
 
 [Log](log.md)
 
-[ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
-
-[Traspaso ORD108](2tid1rkd-mlp.md)
-
 [Traspaso ORD716 Medición aguas halladas STMG](nosmgxtc-mlp.md)
-
-[Gestion de informacion para EDIC](xtkcla0o-mlp.md)
 
 ## Next Actions
 
-- Preguntar el avance de la carta gantt
-  - Claudia fijo una reunion para el martes 26 de may para ver esto con Carlos.
-- Revisar el ORD108
-- Revisar que se ha entregado en EDIC
-- Curso ACHS Mayo
+- [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
+  - [ ] *Tuesday 26-05-2026* Preguntar el avance de la carta gantt.
+    - Claudia fijo una reunion para el martes 26 de may para ver esto con Carlos.
+- [Gestion de informacion para EDIC](xtkcla0o-mlp.md)
+  - [ ] Entregar la parte de la Maria Teresa
+  - Revisar que se ha entregado en EDIC
+- [Traspaso ORD108](2tid1rkd-mlp.md)
+  - [ ] Revisar el ORD108
+- [ ] Curso ACHS Mayo
 - Devolver el cilindro de la silla
 - VIERNES: que anote mis horas de la minuta y de las reus de traspaso
 
