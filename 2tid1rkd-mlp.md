@@ -1,5 +1,27 @@
 # Traspaso ORD108
 
+## WIP
+
+**Tuesday 19-05-2026**
+
+- Revisando si estan todos los anexos y planos.
+
+| Anexos                             | Estado |
+| ---------------------------------- | ------ |
+| Anexo A: Hidrología                | FALTA  |
+| Anexo B: Modelación Hidráulica     | Ok     |
+| Anexo C: Mecánica Fluvial          | Ok     |
+| Anexo D: Diseño                    | Ok     |
+| Anexo E: Reglas de Operación       | Ok     |
+| Anexo F: Especificaciones Técnicas | FALTA  |
+| Anexo G: Informe Topográfico       | FALTA  |
+
+
+- [x] Revisar el ORD108
+  - *Thursday 28-05-2026* se termino de revisar pero no se pudo revisar las preguntas del anexo A, porque no se cuenta con el documento.
+
+## Reunion
+
 **Friday 15-05-2026**
 
 [Reunión Iniciada]
@@ -31,20 +53,3 @@
   - Este proyecto es entender temas subterraneos, hidroquimicos y desde la perspectida hidrogeoligica.
   - [32:54]  habla de los colores del excel, el color morado es una duda de si lo puede hacer Flow o no.
   - Paula Ramirez, Claudia Martinez y Gustavo son los seniors que deciden la columna de costos.
-
-## WIP
-
-**Tuesday 19-05-2026**
-
-- Revisando si estan todos los anexos y planos.
-
-| Anexos                             | Estado |
-| ---------------------------------- | ------ |
-| Anexo A: Hidrología                | FALTA  |
-| Anexo B: Modelación Hidráulica     | Ok     |
-| Anexo C: Mecánica Fluvial          | Ok     |
-| Anexo D: Diseño                    | Ok     |
-| Anexo E: Reglas de Operación       | Ok     |
-| Anexo F: Especificaciones Técnicas | FALTA  |
-| Anexo G: Informe Topográfico       | FALTA  |
-

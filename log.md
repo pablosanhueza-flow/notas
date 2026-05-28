@@ -1,5 +1,6 @@
 # Log
 
+- [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - Capacitacion ACHS Abril "Orientación en prevención de riesgos de acuerdo con el DS 44".
 - Memo Github

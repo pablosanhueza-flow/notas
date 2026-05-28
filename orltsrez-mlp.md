@@ -1,5 +1,11 @@
 # ODS-21B-Afloramiento Piuquenes
 
+## WIP
+
+- [x] *Tuesday 26-05-2026* Preguntar el avance de la carta gantt.
+  - Claudia fijo una reunion para el martes 26 de may para ver esto con Carlos.
+  - Llego Carolina y no se me informo más del tema.
+
 ## Rutas
 
 - ReadAI: "G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-ODS21b Modelo_Conceptual_Piuquenes\07.Entregables\02.Minutas\Transcripciones"
