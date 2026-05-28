@@ -29,5 +29,5 @@
 - las herramientas de medición están allá.
 - [ ] hacer curso de la academia de MLP que ya estaestán inscritos
 - [ ] ver el tema del procedimiento actualizado.
-- 
+-  
 
