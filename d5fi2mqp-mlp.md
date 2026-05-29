@@ -45,11 +45,11 @@
   - usas EPP en todo momento, evaluacion sorpresta
   - ART se cambio a RNL.
   - Están los números de emergencia
-    - [ ] Me agregaran a un grupo de wsp de numeros
+    - *WAIT*  Me agregaran a un grupo de wsp de numeros
   - [ ] Se debe imprimir y firmar el recibo de este documento.
 - Memos
   - Hay muchos puntos que estan secos, pero hay que registrarlo lo que esta pasando.
-  - Hay puentos sin acceso
+  - Hay puntos sin acceso
   - AForos chacay acumulados: Datos historicos.
   - [ ] se debe pedir el apoyo historico.
   - Ver Registro de fotos.
@@ -60,3 +60,5 @@
 - Hay un excel de planificación para los aforos.
   - Me van a mandar la ruta del anterior
 - [ ] Preguntar si me van a dar calcetines termicos.
+
+## Capacitaciones Academia MLP
