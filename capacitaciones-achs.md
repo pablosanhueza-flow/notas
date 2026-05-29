@@ -29,3 +29,8 @@ NO Hacer:
 ## Capacitaciones 2026
 
 [Orientación en prevención de riesgos de acuerdo con el DS 44](ccrir0t2-achs.md)
+
+### Identificación de peligros y evaluación de riesgos en el trabajo
+
+*Friday 29-05-2026*
+

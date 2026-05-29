@@ -36,8 +36,8 @@
 
 - Ruta general: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos]
 - Ruta de memos: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\07.Entregables\03.Memos]
-- Ruta Procedimiento: G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\07.Entregables\00 Procedimiento
-- KMZ puntos: G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\03.WIP\02.Hidrología\KMZ
+- Ruta Procedimiento: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\07.Entregables\00 Procedimiento]
+- Ruta KMZ puntos: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\03.WIP\02.Hidrología\KMZ]
 - El procedemiento esta en la carpeta 07.Entregables.
   - [ ] Cargar y revisar el procedimiento en pdf en el celular.
   - Ficha de registro que hay que llenar
