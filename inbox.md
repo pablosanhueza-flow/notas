@@ -36,6 +36,7 @@
 - [ ] hacer curso de la academia de MLP que ya esta están inscritos
 - [ ] ver el tema del procedimiento actualizado.
 
+<<<<<<< HEAD
 :::conflict{variant=a}
 -  
 :::
@@ -44,6 +45,9 @@
 :::
 
 ## Reunion MLP012 AEH - Terreno Aforos Chacay
+=======
+### Reunion MLP012 AEH - Terreno Aforos Chacay
+>>>>>>> 80dbb6a (update: 2026-05-29 11:37:26)
 
 *Friday 29-05-2026*
 
