@@ -4,4 +4,4 @@
 - [ ] Desocupar cel de viejo y la madre, desactivar la sinceronizar con google fotos
 - [ ] Arreglar el problema del excel de las formulas
 
-[MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp.md)
+[MLP012 AEH - Terreno Aforos Chacay](d6fi2mqp-mlp.md)
