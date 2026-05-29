@@ -59,7 +59,7 @@
   - ART se cambio a RNL.
   - Están los números de emergencia
     - [ ] Me agregaran a un grupo de wsp de numeros
-  - [x] Se debe imprimir y firmar el recibo de este documento.
+  - [ ] Se debe imprimir y firmar el recibo de este documento.
 - Memos
   - Hay muchos puntos que estan secos, pero hay que registrarlo lo que esta pasando.
   - Hay puentos sin acceso
