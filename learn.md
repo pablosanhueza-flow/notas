@@ -9,3 +9,5 @@
 [Capacitaciones ACHS](capacitaciones-achs.md)
 
 [Udemy Inskape](inskape-udemy.md)
+
+Leer [esto de mejor retención](https://amirrachum.com/litnotes/)
