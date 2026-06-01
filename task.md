@@ -5,6 +5,8 @@
 ## Next Actions
 
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
+- comprar colchón rosen
+- comprar Reebok nano x5
 
 ## Waiting
 
