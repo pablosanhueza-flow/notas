@@ -245,6 +245,10 @@
   - Energia: Es un concepto de fisica, se asocia a la capacidad de producir trabajo. Se divide en dos:
     - Energia de origen: es toda aquella de la naturaleza de la actividad
     - Energia Potencial: Es toda energia que se manifiesta una vez que la energia pierde sus controles de contencion y/o segregacion. Se expresa en lesion, daño y/o perdidas.
+  - Estrategia de Controles
+  - Analisis de Riesgo de la Tarea
+  - Linea Base
+  - WRAC: WRAC
 - Unidad 2: Focos Estrategicos SSO.
   - Estrategia de SSO (Seguridad y Salud Ocupacional)
   - Cuatro focos:
@@ -256,7 +260,76 @@
       - Fase 2: Control Operacional
       - Fase 3: Cierre de contrato
 - Unidad 3: Foco I.
-  - Estrategia de Controles
-  - Analisis de Riesgo de la Tarea
-  - Linea Base
-  - WRAC: WRAC
+  - Capa I
+    - Linea base, mapeo de procesos
+      - WRAC: Workplace Risk Assesment and Control.
+        - Metodologia que analiza y evalua riesgos: Identifica las energias.
+      - BOWTIE: Herramientea de Gestion de riesgo de alto nivel (BOWTIE = diagrama en forma de lazo)
+      - Ambas metodologias son usadas, una de inicio y la otra evento TOP o riesgo que pueda generar una fatalidad.
+  - Capa II:
+  - Estrategia de los controles para los riesgos clasificados como criticos o BOWTIE
+  - Capa III:
+    - Establece la planificacion de las tareas y se realiza la asociacion de los pasos de la tareas con sus controles a traves del ART.
+    - Analisis del riesgo de la tarea (ART).
+      - Describe el paso a paso de la tarea y los peligros y controles necesarios.
+      - Debe ser aplicado en todas las tareas previo a realizar la actividad.
+      - Si son varias tareas, se debe realizar una ART para cada tarea.
+      - y en aquellos casos que existe un cambio en el entorno se debe modificar con controles especificos para la condicion.
+  - Capa IV:
+    - Se realiza la revisioon de condiciones y verificacion en terreno
+    - Es una herramientra preventiva donde los trabajadores puedan detener una actividad controlada si se detecta riesgos o desviaciones a los estándares que tengan potencial de generar un accidente.
+    - El trabajador debe analizar el ART en conjunto con:
+      - Condiciones de las personas.
+      - Entorno.
+      - Equipos y herramientas.
+    - Se debe informar a su supervisor cuando se diga "Yo digo no"
+- Unidad 4: Foco II
+  - Se centr en el aprendisaje, acciones e investigacion por medio del metodo AMSA.
+  - Ciclo de aprendisaje: aprendisaje, difusion, aplicabilidad y gestion de conocimiento, acciones transversales, desafio de aprendisaje y monitoreo.
+- Unidad 5: Foco III
+  - Roles y responsabilidades dueño del riesgo, dueño del control, supervisor y Operador.
+    - Liderzgo: Factor clave para eliminar fatalidades y enfermedades profesionales.
+    - Liderazgo efectivo en terreno:
+      - Rol de supervisor.
+      - Planificacion de las actividadels
+      - ART
+      - YO DIGO NO
+    - Seguridad Conductual:
+      - Se encuentra integrado por:
+        - Gestion de riesgo de seguridad
+          - busca identificar y controlar los riesgos con potencial de generar accidentes graves o fatales.
+            - se definene medidas de mitigacion, controles critico y herramientas de verificacion
+              - Para las estrategias de control, se definieron Controles Criticos.
+        - Gestion de riesgo de salud
+          - Busca identificar y controlar los riesgos con potencila de generar enfermedades profesioneles
+            - Estadares de salud ocupacional.
+          - Reportabilidad alineada y mejoramiento
+            - Busca generar alertas y aprendisajes y proyectos de mejor e innovacion que eviten incidentes.
+              - Estándars de Reportabilidad
+                - Su foco esta en reportabilidad preventiva
+                - Busca sistemizar los procesos de verificacion en terreno de tareas, conproles criticos y acciones correctivas.
+            - Liderazgo para la seguridad y salud.
+              - Busca generar una cultura de resilente en seguridad y salud de forma transversal en el Grupo minero.
+                - Liderazgo en conductas criticas.
+                - Liderazgo se complementa con una estrategia comunicacional.
+    - Cultura preventiva:
+      - Acciones sistemátidas y focalizadas para nuestro lideres
+      - Ciclo de Deming: ¿que hacer?, Desarrollar lo planificado, Comprobar y ¿Es suficiente?
+      - AMSA  quiere consolidar una cultura resilente para movilizar y consolidar en el tiempo su estrategia de Seguridad y Salud.
+      - Fomentar el autocuidado.
+- Unidad 6: Foco IV
+  - Gestion sobre empresas contratistas:
+    - RECSS
+      - Lo que contiene:
+        - Manual de Gestion de los Contratos de Servicios
+        - Acreditacion: APRIMIN
+        - Marco Legal DS76. Ley de subcontratacion
+        - Productividad: Focaliza las tareas en SSO
+        - Fiscalizacion y Desempeño
+      - Roles:
+        - adm de contratos de la empresa contratista
+        - adm de contratos de MLP
+        - Dueño del área o Riesgo
+    - FASE I: Inicio de contrato
+    - FASE II: Control operacional
+    - FASE III: Cierre de contrato
