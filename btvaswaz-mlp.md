@@ -231,3 +231,32 @@
     - Controles criticos para la ejecucion sin accidentes.
 - Bloqueo de equipos.
   - Se deben bloquear las fuentes de energia.
+
+## Herramientas preventivas
+
+*Wednesday 03-06-2026*
+
+- Conocer las principales herramientars preventivas para su aplicacion en distintos trabajos en Minera Los Pelambres.
+- Unidad 1: Conceptos Generales
+  - Peligro: Fuenten con potencial de daño para las personas
+  - Evento TOP: Es la "liberacion" del peligro o primera consecuencia.
+  - Evento No deseado: Cadenas de evento que resultan de la liberacion de un peligro.
+  - Riesgo: El riesgo es funcion entre la prob de ocurrencia y severidad de las lesionos o enfermedades.
+  - Energia: Es un concepto de fisica, se asocia a la capacidad de producir trabajo. Se divide en dos:
+    - Energia de origen: es toda aquella de la naturaleza de la actividad
+    - Energia Potencial: Es toda energia que se manifiesta una vez que la energia pierde sus controles de contencion y/o segregacion. Se expresa en lesion, daño y/o perdidas.
+- Unidad 2: Focos Estrategicos SSO.
+  - Estrategia de SSO (Seguridad y Salud Ocupacional)
+  - Cuatro focos:
+    - Gestion de Riesgos de Seguridad y SAlud.
+    - Aprendisajes y gestion de conocimiento.
+    - Liderazgo
+    - RECCS (Gestion sobre empresas contratistas)
+      - Fase 1: Inicio del contrato
+      - Fase 2: Control Operacional
+      - Fase 3: Cierre de contrato
+- Unidad 3: Foco I.
+  - Estrategia de Controles
+  - Analisis de Riesgo de la Tarea
+  - Linea Base
+  - WRAC: WRAC
