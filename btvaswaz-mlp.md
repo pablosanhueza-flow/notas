@@ -1,0 +1,233 @@
+# Academia MLP
+
+## Comunicaciones
+
+*Tuesday 02-06-2026*
+
+- Descripción del Curso
+  - En este curso se presentan los aspectos centrales de las radiocomunicaciones, conceptos básicos de las telecomunicaciones y los distintos tipos de equipos de radiocomunicaciones.
+- Objetivo General
+  - Conocer los conceptos básicos de las telecomunicaciones, distinguir los distintos tipos de equipamientos; e indicar la infraestructura de la radiocomunicación del área y la forma correcta de operar los equipos.
+- Objetivo Especifico
+  - En este curso se presentan los aspectos centrales de las radiocomunicaciones, conceptos básicos de las telecomunicaciones y los distintos tipos de equipos de radiocomunicaciones.
+- *Contenido*
+- Conocer los conceptos basicos
+  - Son toda trasmision a distancia por cable o otro.
+  - El organismo en Chile que regula las telecomunicacions SUBTEL
+  - SUBTEL fija las frecuencias, limitados a una area.
+  - no esta permitido tener una frecuencia para la empresa contratista.
+  - Los medios se dividen en:
+  - Alámbricas:
+    - Medio solido. Ej fibra optica
+  - Inalámbricas:
+    - Se usa el espacio por medio de ondas electromagnetidas.
+    - Las ondas de radiofrecuencia se utilizan en Celular, Television, Comunicacion satelital, Comunicacion 2 vias.
+      - Propagacion directo o Punto a punto (DIR).
+        - Se realiza en una sola frecuencia y esta limitada por obstáculos, distandia y geografía.
+        - Ej: Zona Chacay.
+      - Propagacion por Repetidor
+        - Se amplia cobertura donde existen antenas.
+        - Se necesitan 2 frecuencia para que funcione, una para transmitir y otra para recibir.
+        - Ej: Fase Superior. Fase Inferior, Eléctricos.
+- Distiguir los distintos tipos de equipamiento.
+  - Dispositidos que se utilizan para entablar una comunicacion radial de voz entre 2 o más personas.
+  - Solo se necesita que las radios estén sintonizadas en la misma frecuencia para hablar entre ellas.
+  - Tipos:
+    - La estacion base: unidad fija.
+      - Requiere de un operador para su utilizacion.
+      - Se debe tener en cuenta:
+        1.  Para inicias una comunicacion radial se debe tener apretado el boton PTT.
+        2.  Se unira un tono "Prirt" y despues hablar, si no, no se transmitira.
+        3.  Si la radio no tiene la antena conectada, no se deben realizar transmisiones.
+        4.  Solo usar accesorios recomendados.
+        5.  Tiene max 60 segundos de comunicado.
+        6.  La energia de 12 V debe ir directamenete a la bateria.
+        7.  No se debe interrumpir, solo en caso de emergendia según protocolo MLP.
+    - Estacion Movil: es una unidad que permite la comunicacion desde equipos moviles.
+      - Facil operacion
+      - Se alimenta del mismo vehiculo.
+        - Se debe ocupar un conversor de 24 V a 12 V, DC (corriente continua).
+      - Se debe tener en cuenta que:
+        - 24V a 12V un conversor.
+        - Soporte de Radio.
+        - Instalar a una distancia mínima de 1 metro de la baliza.
+        - Verificar y limpiar el estado del conectos de antena.
+        - Limpiar el microfono PTT.
+    - Estacion Portatil o Handy:
+      - Radio en movimiento hacia otras estaciones de radio.
+      - Es de fácil operación y de tamaño compacto.
+      - Consideraciones:
+        - Iniciar con el boton PTT.
+        - Tono "Prirt", comenzar el comunicado, si se habla antes del tono, no se transmitira el mensaje.
+        - Si la radio no tiene antena o esta quebrada, no se deben realizar transmisiones.
+        - Para hablar se debe poner la radio a 10 cm de la boca.
+        - Posicionr la radio en forma vertical, no tomar por la antena.
+        - Accesorio recomendados por la marca.
+        - Tmax 60 seg
+        - Cargar baterias solo cuando indique carga baja.
+        - Recomendacion 2 baterias por radio.
+        - Usar solo cargadores de la marca.
+        - No encender la radio cuando se esta cargando.
+        - No interrumpir a otro, excepto en emergencias.
+      - Mantencion:
+        - Limpiar el conector de antena.
+        - Limpiar la radio del polvo.
+        - No retirar la tapa de accesorios.
+    - Estaciones repetidoras:
+      - Son unidades que se sitúan estrategicamenete, que reciben una señal, la amplifican y la vuelven a transmitir.
+      - Transmiten y reciben a la vez.
+      - Son autonomos.
+      - Se pueden conectar por internet para extender su area geografica.
+    - Grupos o Canales de comunicacion radial.
+      - Son grupo por zona de MLP.
+      - por ejemplo:
+        - area mina, area CH&STMG (area chancado y correas), área planta, area TFT, area Tranque Mauro y Puerto.
+      - Existen diferencias entre Grupos o canales de comunicacion radial.
+        - ZONA: una agrupacion de canales de radio.
+        - CANAL: El grupo de comunicacion operativo que se encuentra en una zona. ej: Zona Puerto: Canal: General Puerto y Embarque.
+    - Operacion de la radio portatil (se descargaron unos pdf):
+      - APX900
+      - APX1000
+      - APX2000
+    - Cargadores de Handy:
+      - Luz verde el cargador encendio bien.
+      - Luz rojo intermitente: falla en bateria.
+- Indicar la infraestructura de la radio comunicación
+- Procedimiento para solicitud de programacion de radio es un pdf.
+- Procedimiento de desmovilizacion del sistema radial (EECC):
+  - Cuando la empresa contratista termina su contrato.
+  - No dejar saldos pendientes de pago-
+  - Entregar las dependendias tal cual las recibieron.
+  - Entregar las radios al organismo correspondientes, estos las devuelven a la fabrica.
+
+## ODI Tranque Quillayes
+
+- ODI: DS40 informacion de informar los riesgos del trabajo
+- ART21 del DS40 Informacion de las medidas preventivas y de los métodos de trabajo correctos.
+  - Identificacion de los riesgos
+  - Peligros de Salud
+  - Medidas de control
+- El TQ dependiente de la gerencia TFT
+  - Almacenar relave de forma esporadica-
+- Operac
+  - Sistenma de transporte de relave.
+  - Sistema de recirculacion de agua (RCA)
+    - Nace en el mauro
+  - Sistema de transporte de concentrado.
+    - Comienza concentrando de cobre en la concentrado TK-711
+    - Se guardan en holding tanks
+    - Se envia en un ducto de 120 kms en el puerto los Vilos.
+    - En el trazado se cuenta con piscinas de emergencia en el km 0, 22, 80 y 120.
+- Estrategias de control.
+  - PSGCC: Gestion de controles criticos
+  - Los roles claves de las estrategias de control son:
+    - Liderazgo
+    - Disciplina
+    - Cultura
+    - operador: revisa tarea a tarea y que todos los controles criticos esten implementados para el desarrollo de sus actividades criticas.
+    - Supervisor: Verifica la disponibilidad y la correca implementacion de los controles dusante la ejecucion de las tareas.
+    - Dueño de control / Superintendente - Jefe de área: Verifica y monitorea el correcto diseño implementación y capacitación de todos los controles críticos.
+    - Dueño del riesgo: Monitorea la efectividad de los controles criticos.q
+  - Requisitos:
+    - Todo trabajo debe ser informado con anticipación al equipo SSO de MLP.
+    - Ingresar al portal de tareas criticas.
+    - Para el ingreo de las instalaciones:
+      - Trabajadores:
+        - Personal acreditado
+        - Autorizacion interna de conducir
+        - Induccion Quillayes Aprobada y vigente
+        - Conocer Plan local de emergencias
+        - Uso de elementos de proteccion personal básicos y especificos al trabajo a desarrollar.
+        - Protocolo Comunicacion Tranque Quillayes.
+      - Empresas:
+        - Contar con procedimientos de trabajo, difundidos y evaluados en su entendimiento.
+        - Permisos de ingreso al area.
+        - Permiso especiales.
+        - Elaboracion de herramientas preventivas, ART paso a paso y verificacion de controles aplicables a la tarea (QR. PSGCC)
+    - EPP para TQ a la hora de ejecutar las actividades:
+      - Casco
+      - Lentes de seguridad
+      - Mascara de gases
+      - Calzado
+      - Chaleco reflectante
+      - Cremas UV
+      - Cubre cuello legionario para UV
+    - Todas las tareas estan sometidos a una gestion integral de Salud, medio ambiente y comunidades.
+      - Se quiere evitas la contaminacion de Agua, suelo y aire.
+      - COnsumo de recursos
+      - Todo trabajo de MLP debe realizarce una liberacion de area de parte de MedioAmbiente.
+    - Sellos de liderazgo:
+      - Respeto a los demas.
+      - Responsabilidad con la seguridad y salud
+      - Compromiso con la sustentabilidad
+      - Excelencia en nuestro desempeño diario
+      - Innovacion como práctica permanente
+      - Somos visionarios.
+    - Cultura preventiva por lo que se han establecidos ciertos estandares.
+      - Salud Compatible
+      - Higiene Ocupacional
+      - Ergonomia
+      - Psicosociales
+      - Vigilancia medica ocupacional
+      - Gestion de Casos de salud
+      - Maternidad
+      - Alcohol, drogas y tabaco.
+      - Promocion de conductas saludables
+    - Las estrategias de salud y control del TQ son:
+      - Prevencion de la silicosis
+      - Prevencion de hipoacusia en sectores con alta exposicion a ruido.
+      - Fatiga y sonmnolencia
+  - En la superintendencia de transportes y fluidos, los trabajadores se encuentran expuestos a distintos agentes fisicos, quimicos y biologicos que pueden afectar su salud.
+  - Los riesgos presentes en el area son:
+    - Exposicion a radiacion UV: Se debe usar casco, ropa con filtro UV y capucha legionaria.
+    - Ruido: utilizacion de protector auditivo.
+    - Materia particulado respirable o polvo: Mascarilla
+    - Iluminarse en los lugares oscuros:
+  - MLP tambien tiene sus fuentes de radiacion que estan señalizados.
+  - Se debe usar barandas para subir y bajar escaleras.
+  - Utilizar chaleco salvavidas si se encuentra en contacto con el agua.
+  - Se determino enfocar en la "Identificacion de aquellos requisitos minimos obligatorios" que todos deben cumplir, son 21 medidas para evitar Fatalidades, Accidentes Graves y enfermedades profesionales.
+  - Transido de vehiculos livianos:
+    - Velocidadels maximas
+    - Conduccion por plaforma
+    - COnduccion al interios de los tuneles: vel max 20, si se encuntra con otro conductor dirigirse hacia una de las estocadas.
+  - Riesgos en holding tanks
+    - Caidas
+    - Resbalamientos
+    - Atropellos
+    - Proyeccion de agua a alta presion
+  - Tiene un plan para hacer frente a cada emergencia.
+    - Emergencia grado 1: puede ser controlada por el personal operativo en el área, no requiere apoyo de personal especializado.
+    - Grado 2: Es una emergenci que sobrepasa la capacidad de respuesta del presente en el area, deben recurir equipos de apoyo.
+    - Grado 3: Sobrepasa la respuesta de los equipos de apoyo a la compañia. Deben intervenir equipos externos especializados.
+  - Nueva manera de las estrategias de control.
+    - Codigos QR con cualquier telefono.
+    - En caso de falla de un control, se debe reportar como evento no deseado  de SSO.
+- Areas de riesgo en el TQ:
+  - Cubeta: Si los relaves no se van a TM, se quedan en la cubeta TQ.
+  - Muro: Creada con la fraccion gruesa del relave, llamada arena.
+  - Tunel de desvio: Utilizado para el envió de aguas provenientes de los rios Piuquenes y Pelambres. Se realizaron para evitar mezclar el agua limpia de la contactada para entregarsela a los regantes *Consideras que el Túnel de Desvío es utilizado para el envío de aguas provenientes de los ríos Piuquenes y Pelambres a los regantes de las comunidades aledañas, estás aguas son enviadas a través de un Canalón, que fue construido para evitar el contacto del agua limpia con aguas infiltradas del proceso de los relaves del Tranque los Quillayes.*
+  - Tranque de Cola: Esta obra fue diseñada para almacenar las aguas del rio Piuquenes y Pelambres, para luego ingresar al tunel de desvio (Canalon).
+  - Estacion de bombeo Drenes: Recolecta aguas de infiltracion Muro, Tunel de desvio y pozos ABQ. Los pozor ABQ son para controlar una pluma de contaminacion, esta agua es bombeada a la estacion Fija Planta para luego ser dirigida a la  Planta de procesos.
+  - Recirculacion de aguas desde TM:
+    - Este sistema corresponde a una tuberia de acero de 32 pulgadas que se encuentra instalada en la misma platafoma del relaveducto, con estaciones de impulsion R1 y R2, y que descarga el agua en el estanqu TK-52, ubicados el el area de los espesadores de la planta concentradora.
+  - Bocatoma Piuquenes y bocatoma pelambres:
+    - Estas instalaciones estan diseñadas para la captacion de agua fresca para el proceso productivo.
+    - Pelambres se almacena en la piscina de procesos.
+    - Piuquenes se almacena en TK106 y TK745 y agua potable TK101 en la planta concentradora.
+  - Linea estacion Planta Fija.
+    - Impulsa las agus del estanque TK152 en el área de espesador de la planta concentradora.
+    - Este recibe aguas de Piuquenes a traves del estanque de traspaso TK079.
+  - Linea de impulsion Choapa:
+    - Son tres estaciones Choapa 1, 2 y 3. Una en caimanes, otra cerca del muro y la ultima aguas arriba del muro.
+  - Areas de riesgo: Acueducto Mina.
+    - Su funcion es transportar agua del fondo mina y las infiltradas por el tunel correa en ventana 0.
+- ARTP: Herramienta para la planificacion
+  - Significado: Análisis de riesgo de la tarea planificada.
+  - Metodologia práctica y facil de entender:
+    - Estandariza practicas seguras de trabajo.
+    - Identificas equipos y herramientas esenciales
+    - Asegurar la implementacion efectiva de los controles.
+    - Controles criticos para la ejecucion sin accidentes.
+- Bloqueo de equipos.
+  - Se deben bloquear las fuentes de energia.

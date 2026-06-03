@@ -60,5 +60,3 @@
 - Hay un excel de planificación para los aforos.
   - Me van a mandar la ruta del anterior
 - [ ] Preguntar si me van a dar calcetines termicos.
-
-## Capacitaciones Academia MLP
