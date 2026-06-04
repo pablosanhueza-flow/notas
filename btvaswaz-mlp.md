@@ -333,3 +333,100 @@
     - FASE I: Inicio de contrato
     - FASE II: Control operacional
     - FASE III: Cierre de contrato
+
+## IRL (Información de Riesgos Laborales) Chacay
+
+*Wednesday 03-06-2026*
+
+- Video introductorio
+  - [ ] EPP:
+    - camisa manga larga
+    - Pantalon
+    - Zapatos de seguridad
+    - Casco
+    - Lentes
+    - Chaleco de seguridad cerrado
+    - Protector solar
+    - Hidratacion
+    - Registrar numeros telefonicos de emergencia
+- ODI Chacay  General (obligacion de informar)
+  - Principales riesgos en Faena:
+  - CONTEXTO
+  - ODI: Obligacion de Informar
+  - VALORES Y NORMAS:
+    - principios de AMSA
+    - ser sustentables a largo plazo
+    - comparten la misma carta de valores con los otros grupos mineros
+    - socio estrategico de la IV region
+    - operacion sustentable
+    - respetando el entorno y las comunidades
+    - Valores:
+      - Respeto
+      - Responsabilidad
+      - Compromiso
+      - Excelencia
+      - Innovacion
+      - Visionarios
+  - LIDERAZGO
+    - Salud y Seguridad es primordial, libre de accidentes
+    - Se realizan constantemente prevenciones en terreno
+    - Se realizan Salud ocupacional, higiene industrial y de Calidad de Vida.
+    - Cultura de prevencion
+    - niveles de accidentabilidad mas bajo
+    - 5 pilares de competencias de Sello de Liderazgo
+      - hago las cosas con conviccion y compromiso
+      - me desarrollo y desarrollo a otros
+      - creo valor en cada cosa que hacemos
+      - actuo mirando hacia el futuro para asegurar la sustentabilidad
+      - valoro todo los aportes
+  - CULTURA ORGANIZACIONAL
+    - se basan en tres dimensiones
+      - Cultura se construye con el tiempo
+      - Organizacion es la forma que nos ordenamos para organizar nuestro trabajo la cual es flexible
+      - Estrategia, se basa en 5 pilares:
+        - Personas
+        - Seguridad y sustentabilidad
+        - Competitividad
+        - Crecimiento
+        - Innovacion
+  - EPP INDISPENSABLE
+    - camisa manga larga
+    - Pantalon
+    - Zapatos de seguridad
+    - Casco
+    - Lentes
+    - Chaleco de seguridad cerrado
+    - Protector solar
+    - Hidratacion
+    - Registrar numeros telefonicos de emergencia
+  - NORMA EN MINERA LOS PELAMBRES
+    - Señaleticas: caminos y puntos de emergencia.
+    - Sustancias Estupefacientes: esta prohibido alcohol y drogas
+    - Higiene Personal: ropa limpia, no esta permitido pantalon corto o polera.
+    - Campamentos: no intervenir nada.
+    - Preservacion de recursos: Austero en Agua y luz.
+  - SUSTENTABILIDAD
+    - Trabajo con las comunidades para dar valor arqueologico al lugar
+    - Preocupacion de la Flora y Fauna.
+    - Relacinarse con las comunidades de manera respetuosa
+  - TRANSITO EN FAENA
+    - Autorizacion interna para conduccir
+    - 50 km/hr max
+    - Asegurase del estado del vehiculo
+    - Encuesta de fatiga y somnolencia
+    - Peatones: solo cruzar en lugares habilitados.
+  - ESTRATEGIAS DE SEGURIDAD Y CONTROL
+    - Areas con riesgo de fatalidad:
+      - area planta
+        - informarse de los EPP
+      - area mina
+        - controles criticos especificos:
+          - interaccion con maquinaria pesada
+          - tronadura y caida de rocas en distintos niveles
+          - prohibido conducir solo
+          - contar con los ODI especificos para cada area
+  - EN CASO DE EMERGENCIA
+    - mantener la calma
+    - tener los numeros de emergencia:
+      - emergencias: 569 73777000
+      - policlinico: 56 227984231
