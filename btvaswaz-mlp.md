@@ -516,6 +516,83 @@
       - una vez informada la emergendia, una brigada de rescate comenzara su busqueda y salvamento.
       - si no se logra comunicacion, recordar que el paso es controlado;por ende, inmediatamente una brigaca comenzará la búsqueda.
 - Unidad 3 Responsabilidades de la Gerencias
+  - Responsabilidades
+    - listado de muchas gerencias involucradas
+  - Responsabilidades de la gerencia mina
+    - comite de algo
+  - Gerencia de servicios de soporte a la operacion
+    - El gerente debe mantener a disposicion los equipos, maquinaria a su cargo, para mantener operativos los caminos internos de la faena.
+    - vigilancia de postes y conductores electricos
+  - Gerencia concentradora
+    - Lidera el comite de operacion invierno mina pero solo para CHACAY
+    - encargarse pre y post
+    - señalizacion y cosas en su area
+  - Gerencia de TFT
+    - Tendra a su cargo la preparadion y coordinacion de las acciones pre, durante y post eventos climáticos.
+    - responsable de asegurar de la intergridad de las personas
+    - aseguras cumplimiento disponibilidad de recursos y seguimiento del plan de invierno en relacion con la mantencion de canales de contorno y limpieza de alcantarillas junto a las obras de arte que se puedan encontrar en su area.
+  - Gerencia de Recursos Humanos
+    - mantener un stock de alimentor para 10 dias de encierro
+    - manejar el servicio al personal, alimentacion, servicios de recreacion y movilizacion
+    - responsables los diferentes accesos oficinas de TM, Chacay y Hotel Mina y del refugio COM.
+  - Jefe de logistica y bodega
+    - mantener un stock de combustible, sal para deshielo, equipos de proteccion personal tecnico.
+    - Gerente residente apoyara sobre las acciones que se requieran como consecuencia de la aplicacion del Reglamento.
+  - Gerente invierno
+    - elegido por los otros Gerentes
+    - prestar apoyo al Gerente residente, con una comunicacion directa con el equipo ejecutido de pelambres
+  - Supervisores.
+    - capacitar e informar a las personas de su cargo en cada uno de los alcances del presente reglamento
+    - debera tener operativo el plan de emergencia y el plan de evacuacion de su personal.
+  - Empresas colaboradoras:
+    - Listado de todo su personal y subcontratistas que administan y los vehiculos que esten usando.
+    - Limpiar sus instalaciones y mantener la señaletica.
 - Unidad 4 Alertas
+  - Alertas
+    - a tener a considerar los "Estados de alerta":
+      - Alerta 1: aproximacion del mal tiempo, ventiscas y mala velocidad-
+      - Alerta 2: se prevé el mal tiempo en la zona
+      - Alerta 3: un temporal persiste, nevadas , vientos leves
+      - Alerta 4: temporal severo excepcional con nevadas intensas y vientos y mala visibilidad.
+    - Acciones establecidas en caso de alerta
+      - Alerta 1: estanque lleno, visitas canceladas, personal mantencion y alimentacion debe permanecer en los refugios, servicio medico dispondra de personal paramediodo en cada refugio.
+      - Alerta 2: las operaciones de mina se restringen, el transito peatonal fuera de los limites de las areas de trabajo y campamento queda suspendido. El personal de mina pernocta en el refugio. Todo personal de empresas colaboradoras debera permanecer en su habitacion.
+      - Alerta 3: proteger maquinaria, queda suspendido el transito vehicular, se evaluara la salida de todo el personal fuera de faena
+      - Alerta 4: Las operaciones Mina quedan totalmente suspendidas.
 - Unidad 5 Avalanchas
+  - Riesgo de trabajo en montaña son las avalanchas
+  - Prevencion, mantencion y proteccion de defensas contra avalanchnas
+  - Inspeccion anual a obras de defensas contra avalanchas, barreras y mallas.
+  - Controlar stock de municiones, iniciadores, cargas explosivas, cilindros de gas y oxigeno.
+  - Mantener en funcionamiento las estaciones automatidas de captura de eventos metereologicos.
+  - Equipo de montaña entrenados.
+  - Equipo de rescate listos para ser usados.
+  - Nivometeorologia y control de avalanchas
+    - servicios capaz de analizas y la evolucion de las condiciones climaticas
+    - se listan distintos equipamientos para controlar las avalanchas
+  - Control y generacion de avalanchas
+    - senderos identificados de los senderos donde se producen las avalanchas y por ello se pueden controlar las avalanchas o generarlas controladamente.
+  - ¿que hacer en caso de avalancha?
+    - Caminos
+      - El camino se encuntra señalizado con letraros que indican la ubicacion y nombre de la Avalancha.
+    - Deslizamiento de Nieve
+      - Apertura de Caminos una vez sea despejado y evaluado por operacion invierno
+    - Avalanchas
+      - Tips para Sobrevivir, quedarse en el auto , etc
+    - Avalanchas y telecomunicaciones
+      - Llamar a emergencias
 - Unidad 6 Comportamiento
+- Comportamiento
+- Conoceremos las normas de comportamiento que deben aplicarse en el trabajo cuando la faena se encuntra bajo condiciones climatidas adversas
+- Comportamiento en invierno
+  - Toda persona debera cumplir ciertos comportamintos :
+    - todas las personas deben desarrollar estos comportamientos
+    - Deben permanecer en su punto de trabajo y no transitar fuera de los limites del area protegida.
+    - Deben conocer los estados de alerta
+    - Deben abordar los medios de transporte establecidos.
+    - Deben informar a su jefe directo de su presencia en los lugares seguros y campamentos despues de haber sido evacuados
+    - Deben abstenerse de hacer comentarios negativos o pesimismo o la duda.
+- Comportamiento en invierno - detalles
+  - no anote
+- Reglamento operacionales climáticas adversas
+  - era algo asi de como comportarse
