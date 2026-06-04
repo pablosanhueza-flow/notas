@@ -430,3 +430,92 @@
     - tener los numeros de emergencia:
       - emergencias: 569 73777000
       - policlinico: 56 227984231
+
+## Operación en Condiciones Climáticas Adversas
+
+*Thursday 04-06-2026*
+
+- Unidad 1 Introduccion
+  - tipos: nevadas , avalanchas, baja visibilidad, temperaturas extremas, piso congelado, viento blanco y tormentas electricas.
+  - la idea es proteger a las personas, bienes e instalaciones
+  - caida de nieve media historica 300 cm, el periodo invernal desde el 15 de abril al 15 de sept.
+  - Uso de EPP, ropa termica, crampones y lentes de seguridad
+  - situaciones invernales: Avalancnas de nieve, aluviones de barro, rodados de piedras, otras situaciones invernales.
+  - Alcances del reglamento.
+    - Aplicable a todos
+    - es responsabilidad de los conductores informarse de las condiciones
+    - pueden existi reestriciones:
+      - cierre de camino por tramo
+        - el quillay, bajo hotel mina, frente a estanques agua hotel mina, salida transferencia n1, bajo instalaciones COM
+        - liderarr y coordinar todas las facilidades para el personal medico.
+        - mantener stock minimos de medica para 10 dias para todo el campamento.
+        - cambios de turno del personal paramédico se debera hacer in situ, para que siempre haya uno.
+- Unidad 2 Normas para vehiculos y conductores
+  - los conductores deben estar atentor a: Condiciones climaticas adversas, estado de los caminos, uso de cadenas, estado de alerta y restricciones en los letreros del camino industrial.
+  - en cond adversas como: uso de implemetacion especial en todo vehiculo, el uso de reco, uso de crampones y uso de cadenas.
+  - se descarga un pdf.
+  - Implementacion especial en todo vehiculo.
+    - Obligatoria
+      - Cadenas
+      - saco
+      - estrobo de acero con ganchos o grillter
+      - dos desatornilladores
+      - un alicate
+      - una linterna
+      - una frazada
+      - una caja con candado
+      - una pala
+    - en caso de alerta
+      - se prohibe el ingreso de vehiculos livianos de colos gris o blanco. de mas de 50%
+        - este punto no es exigible para el area mauro, solo lluvia.
+        - vehiculos livianos sobre los 2000msnm, radio transmision de invierno conf en el canal 3.
+          - para el caso de el Mauro, se debera estas en el canal TFT canal 01.
+    - Obligacion conductores
+    - respetar obligaciones:
+    - respestar lo que digan en garita de control
+    - velocidad max 30 km/hr
+    - mantener una distandia minima de 50 m fuera del radio de accion de las maquinarias
+    - respetas rigurosamente toda señalizacion del tránsito
+    - conducir con las luces encendidas dia y de noche
+    - hacer uso de las marchas en pendientes
+    - no usar excesivamente los frenos
+    - mantenerse atento a las condiciones dl las laderas y el camino mismo por deslizamientos de tierra
+    - transitar solo por caminos habiltados y autorizados
+    - conocer lugares de detencion habituales autorizados: EL QUILLAY, HOTEL MINA Y LOS PELAMBRES.
+    - transito de maquinaria pesada.
+      - deberan contar con cadenas apropiadas y radiotramiros el canal 3.
+      - en el tranque mauro, solo cadenas si hay nieve o hielo-
+      - dispositivos recco, en el zapato y en el bolsillo en la primera capa.
+      - prevencionista son reesponsables el adquirir el dispositido recco.
+      - recco no es necesario para mauro.
+      - crampones obligatorio para todos en presencia de nieve y hielo.
+      - uso de cadenas obligatorio por nieve y hielo
+        - los que no utilizen seran reportados a Reportabilidad SAP EHS.
+    - Aseguramiento de cadenas.
+      - se debe poner cadenas cuando se avise en:
+        - Portones Mauro
+        - Estacionamiento Gerencia TFT Muro
+        - Puente Buitron
+        - Bomba surtidora de combustibje El Chacay
+        - El Quillay Km 19
+        - Hotel Mina
+        - Curva 2 km 29
+    - Caida de rocas
+      - mas frecuenda entre 11 y 17 horas, en zonas de deshielo
+      - se debe avisas al personal de operacion invierno si se ven rocas.
+      - atento a las avalanchas de nieve, atentos a la señaletica
+        - se buscan indicios de Rastras de nieve para proceder a activar avalanchas.
+        - si se encuentra una avalancha, el conductor debe dar media vuelta.
+    - ¿que hacer en caso de avalancha o en quedar atrapado en una?
+      - apagar el motor
+      - dejar las llaves de encendido en la chapa de contacto
+      - quedarse en el vehiculo
+      - matener el control y la calma
+      - usas la palabra emergencia para comunicar la situacion a Operacion invierno, informando la ubicacion y cantidad de pasajeros que se encuentre en el vehiculo, ademas cuide la bateria de la radio.
+      - Minimice el gasto energetido personal
+      - una vez informada la emergendia, una brigada de rescate comenzara su busqueda y salvamento.
+      - si no se logra comunicacion, recordar que el paso es controlado;por ende, inmediatamente una brigaca comenzará la búsqueda.
+- Unidad 3 Responsabilidades de la Gerencias
+- Unidad 4 Alertas
+- Unidad 5 Avalanchas
+- Unidad 6 Comportamiento

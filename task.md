@@ -6,7 +6,7 @@
 
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
 - [Academia MLP](btvaswaz-mlp.md)
-- comprar colchón rosen
+- Instalar la app TimeStamp
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 

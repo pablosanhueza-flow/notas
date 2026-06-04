@@ -60,3 +60,32 @@
 - Hay un excel de planificación para los aforos.
   - Me van a mandar la ruta del anterior
 - [ ] Preguntar si me van a dar calcetines termicos.
+
+## MLP012 AEH - Aforos Chacay. Coordinación revisión documentación en terreno
+
+- se debe realizar ARTP (paso a paso, controles y riesgos), El aforo no es una tarea critica, por lo que solo se debe hacer una TNC.
+  - RTP de conduccion y TNC.
+- uso de las radios
+  - protocolo de comunicacion, numeros
+
+P6: Realizar una confirmacion de Rol. - Realizar una comprobacion del rol en el cambio de turno.
+
+- examenes vencen los mios : 22/05/2029
+- [ ] el procedimiento de los aforos esta trabajado
+  - La catalina va a imprimir los documentos
+- ARTP o cuando se ultiliza las TNC tarea no critica, en esta caso para aforo.
+  - los controles deben estar ok antes de hacer la tarea
+- yo digo no: detener la actividad si es que falta un control critico que no esta implementado.
+- [ ]  p16: conocer el numero de emergencia
+  - ubicar PEE cercanos al sectory avisar por radio, emergencia x3
+    - se activa el flujograma de emergencia de flow
+- [ ] saber el top 4
+- a nivel contrato no hemos tenido ningun evento de alta energia.
+- [ ] que es el CECOM
+- [ ] Estudiar el RECCS que son preguntas que me va a ser Francisco.
+- Juntarno en la zona de bajos Caudales, arriba de embalse de Cola, reunion con francisco Aguilera.
+- Gustavo
+- [ ] Revisar procedimiento de Aforos
+- [ ] Enviar certificados de la academia de MLP, a Catalina.
+- [ ] Temas de transporte por Abel. Ver el tema con el Diego, pero lo verá gustavo.
+- [ ] el numero de Francisco Aguilera
