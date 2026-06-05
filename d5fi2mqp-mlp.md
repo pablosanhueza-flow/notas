@@ -27,8 +27,9 @@
 - 4 días partiendo el martes
 - Marcelo Salinas sería mi conductor.
 - las herramientas de medición están allá.
-- [ ] hacer curso de la academia de MLP que ya esta están inscritos
+- [x] hacer curso de la academia de MLP que ya esta están inscritos
 - [ ] ver el tema del procedimiento actualizado.
+  - *Friday 05-06-2026*
 
 ## Reunion MLP012 AEH - Terreno Aforos Chacay
 
@@ -46,7 +47,8 @@
   - ART se cambio a RNL.
   - Están los números de emergencia
     - *WAIT*  Me agregaran a un grupo de wsp de numeros
-  - [ ] Se debe imprimir y firmar el recibo de este documento.
+      - *Friday 05-06-2026* me agregaron al grupo
+  - [ ] Se debe imprimir y firmar el recibo de te documento.
 - Memos
   - Hay muchos puntos que estan secos, pero hay que registrarlo lo que esta pasando.
   - Hay puntos sin acceso
