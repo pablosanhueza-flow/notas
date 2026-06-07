@@ -107,7 +107,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
     - [x] 1 balaclava gruesa 
     - [ ] 1 Cuello para dormir
     - [ ] 1 Cuello terreno
-    - [ ] 1 gorro sol
+    - [x] 1 gorro sol
     - [ ] 1 lentes de sol
   - b) Parte superior
     - [ ] 2 Poleras manga corta
