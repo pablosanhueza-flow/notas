@@ -146,7 +146,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - [x] Bloqueador
   - [x] crema
 - 04-Documentos otros
-  - [ ] Documentos: carnet, licencia, pase escolar, debito
+  - [x] Documentos: carnet, licencia, pase escolar, debito
 - 05-Entretención
   - [x] Audifonos
   - [ ] tablet
