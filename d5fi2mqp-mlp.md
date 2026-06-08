@@ -142,7 +142,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 
 - 03-Medicamentos
   - [ ] cam (picaduras de insecto)
-  - [ ] Mentolatum (final)
+  - [x] Mentolatum (final)
   - [x] Bloqueador
   - [ ] crema
 - 04-Documentos otros
