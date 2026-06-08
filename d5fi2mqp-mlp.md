@@ -103,7 +103,6 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 
 - 01-Ropa
   - a) Cabeza-Cuello
-    - [ ] 1 balaclava delgada
     - [x] 1 balaclava gruesa 
     - [ ] 1 Cuello para dormir
     - [ ] 1 Cuello terreno
@@ -112,7 +111,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - b) Parte superior
     - [x] 2 camisas trabajo
     - [x] 4 Poleras manga larga
-    - [ ] 2 primeras capas
+    - [x] 2 primeras capas
     - [x] 1 camisa para dormir
     - [ ] 1 Poleron abrigo
     - [ ] 1 Chaqueta impermeable
@@ -122,31 +121,29 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - d) Piernas
     - [x] 5 boxers
     - [ ] 2 calzas piernas
-    - [x] 1 Pantalon comodo
-    - [ ] 1 pantalon abrigo
+    - [ ] 1 Pantalon comodo
+    - [x] 1 pantalon abrigo
     - [x] 1 pijama pierna
     - [x] 2 pantalones de trabajo
   - e) Pies
     - [x] 6 Calcetines
-    - [ ] 3 calcetines termicos
+    - [x] 3 calcetines termicos
     - [ ] 1 par de zapatos comodos
     - [ ] 1 par de zapatos de seguridad
 - 02-Baño
   - [ ] 1 Desodorante (al final)
-  - [ ] 1 Hilo de dientes (al final)
-  - [ ] 1 Toalla de baño
-  - [ ] 1 par de chalas para ducharse
-  - [ ] 1 cepillo
-  - [ ] 1 Cortador de uñas 
-  - [ ] 1 pasta de dientes
-  - [ ] 1 Bolsa para lavar ropa
-  - [ ] 1 Afeitadora 
+  - [x] 1 Hilo de dientes (al final)
+  - [x] 1 Toalla de baño
+  - [x] 1 par de chalas para ducharse
+  - [x] 1 cepillo
+  - [x] 1 Cortador de uñas 
+  - [x] 1 pasta de dientes
+  - [x] 1 Bolsa para lavar ropa
+
 - 03-Medicamentos
   - [ ] cam (picaduras de insecto)
   - [ ] Mentolatum (final)
-  - [ ] chicle para el mareo(no)
-  - [ ] pastillas para la garganta (no)
-  - [ ] Bloqueador (no)
+  - [ ] Bloqueador 
 - 04-Documentos otros
   - [ ] Documentos: carnet, licencia, pase escolar, debito
   - [ ] lentes opticos
