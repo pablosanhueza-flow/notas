@@ -121,7 +121,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - d) Piernas
     - [x] 5 boxers
     - [x] 2 calzas piernas
-    - [ ] 1 Pantalon comodo
+    - [x] 1 Pantalon comodo
     - [x] 1 pantalon abrigo
     - [x] 1 pijama pierna
     - [x] 2 pantalones de trabajo
