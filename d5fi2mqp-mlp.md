@@ -129,7 +129,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
     - [x] 6 Calcetines
     - [x] 3 calcetines termicos
     - [x] 1 par de zapatos comodos
-    - [ ] 1 par de zapatos de seguridad
+    - [x] 1 par de zapatos de seguridad
 - 02-Baño
   - [ ] 1 Desodorante (al final)
   - [x] 1 Hilo de dientes (al final)
