@@ -139,9 +139,12 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - [x] 1 Cortador de uñas 
   - [x] 1 pasta de dientes
   - [x] 1 Bolsa para lavar ropa
+  - [ ] shampoo
+  - [ ] jabon
 
 - 03-Medicamentos
   - [ ] cam (picaduras de insecto)
+  - [ ] repelente de zancudos 
   - [x] Mentolatum (final)
   - [x] Bloqueador
   - [x] crema
