@@ -156,7 +156,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - [x] Cable usb-C y cargado
 - 07-Dinero
   - [x] App del banco chile Instalada
-  - [ ] digipass
+  - [x] digipass
 - 08-EPP:
   - [x] 2 camisa manga larga
   - [x] 2 Pantalon
