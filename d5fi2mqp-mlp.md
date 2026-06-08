@@ -143,28 +143,28 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 - 03-Medicamentos
   - [ ] cam (picaduras de insecto)
   - [ ] Mentolatum (final)
-  - [ ] Bloqueador
+  - [x] Bloqueador
   - [ ] crema
 - 04-Documentos otros
   - [ ] Documentos: carnet, licencia, pase escolar, debito
 - 05-Entretención
-  - [ ] Audifonos
+  - [x] Audifonos
   - [ ] tablet
 - 06-Comunicaciones
-  - [ ] Cargar dinero chip entel
+  - [x] Cargar dinero chip entel
   - [ ] Celular
   - [ ] Cable usb-C y cargado
 - 07-Dinero
-  - [ ] App del banco chile Instalada
+  - [x] App del banco chile Instalada
   - [ ] digipass
 - 08-EPP:
-  - [ ] 2 camisa manga larga
-  - [ ] 2 Pantalon
-  - [ ] 1 Zapatos de seguridad
-  - [ ] 1 Casco
-  - [ ] 2 Lentes de sol y trasparentes
-  - [ ] 1 Chaleco de seguridad cerrado
-  - [ ] 1 Protector solar
+  - [x] 2 camisa manga larga
+  - [x] 2 Pantalon
+  - [x] 1 Zapatos de seguridad
+  - [x] 1 Casco
+  - [x] 2 Lentes de sol y trasparentes
+  - [x] 1 Chaleco de seguridad cerrado
+  - [x] 1 Protector solar
   - [ ] Hidratacion
 - 09-Registrar numeros telefonicos de emergencia
   - preguntar cuales, son tengo estos de la capacitacion
