@@ -143,7 +143,8 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 - 03-Medicamentos
   - [ ] cam (picaduras de insecto)
   - [ ] Mentolatum (final)
-  - [ ] Bloqueador 
+  - [ ] Bloqueador
+  - [ ] crema
 - 04-Documentos otros
   - [ ] Documentos: carnet, licencia, pase escolar, debito
   - [ ] lentes opticos
