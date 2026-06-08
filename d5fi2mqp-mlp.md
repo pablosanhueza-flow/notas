@@ -110,24 +110,25 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
     - [x] 1 gorro sol
     - [x] 1 lentes de sol
   - b) Parte superior
-    - [ ] 2 Poleras manga corta
-    - [ ] 5 Poleras manga larga, agregar una
+    - [x] 2 camisas trabajo
+    - [x] 4 Poleras manga larga
     - [ ] 2 primeras capas
-    - [ ] 1 camisa para dormir
+    - [x] 1 camisa para dormir
     - [ ] 1 Poleron abrigo
     - [ ] 1 Chaqueta impermeable
   - c) Manos
-    - [ ] 1 par Guantes de frio 
+    - [x] 1 par Guantes de frio
+    - [x] 1 par de guantes de trabajo
   - d) Piernas
-    - [ ] 6 boxers
+    - [x] 5 boxers
     - [ ] 2 calzas piernas
-    - [ ] 1 Pantalon decente
+    - [x] 1 Pantalon comodo
     - [ ] 1 pantalon abrigo
-    - [ ] 1 short deportivo 
-    - [ ] 1 pijama pierna
+    - [x] 1 pijama pierna
+    - [x] 2 pantalones de trabajo
   - e) Pies
-    - [ ] 5 Calcetines gruesos
-    - [ ] 2 calcetines delgados
+    - [x] 6 Calcetines
+    - [ ] 3 calcetines termicos
     - [ ] 1 par de zapatos comodos
     - [ ] 1 par de zapatos de seguridad
 - 02-Baño
