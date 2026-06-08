@@ -114,7 +114,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
     - [x] 2 primeras capas
     - [x] 1 camisa para dormir
     - [x] 1 Poleron abrigo
-    - [ ] 1 Chaqueta impermeable
+    - [x] 1 Chaqueta impermeable
   - c) Manos
     - [x] 1 par Guantes de frio
     - [x] 1 par de guantes de trabajo
