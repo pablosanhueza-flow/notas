@@ -103,7 +103,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 
 - 01-Ropa
   - a) Cabeza-Cuello
-    - [x] 1 balaclava delgada
+    - [ ] 1 balaclava delgada
     - [x] 1 balaclava gruesa 
     - [ ] 1 Cuello para dormir
     - [ ] 1 Cuello terreno
