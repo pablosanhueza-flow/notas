@@ -149,7 +149,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - [x] Documentos: carnet, licencia, pase escolar, debito
 - 05-Entretención
   - [x] Audifonos
-  - [ ] tablet
+  - [x] tablet
 - 06-Comunicaciones
   - [x] Cargar dinero chip entel
   - [ ] Celular
