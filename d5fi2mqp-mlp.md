@@ -147,18 +147,13 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - [ ] crema
 - 04-Documentos otros
   - [ ] Documentos: carnet, licencia, pase escolar, debito
-  - [ ] lentes opticos
-  - [ ] reloj garmin
 - 05-Entretención
   - [ ] Audifonos
   - [ ] tablet
 - 06-Comunicaciones
   - [ ] Cargar dinero chip entel
   - [ ] Celular
-  - [ ] Cable usb-C y cargador
-  - [ ] mouse y alfombra mouse
-  - [ ] conector hdmi vga
-  - [ ] notebook y cargador
+  - [ ] Cable usb-C y cargado
 - 07-Dinero
   - [ ] App del banco chile Instalada
   - [ ] digipass
