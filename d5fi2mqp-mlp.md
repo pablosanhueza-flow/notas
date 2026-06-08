@@ -153,7 +153,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 - 06-Comunicaciones
   - [x] Cargar dinero chip entel
   - [x] Celular
-  - [ ] Cable usb-C y cargado
+  - [x] Cable usb-C y cargado
 - 07-Dinero
   - [x] App del banco chile Instalada
   - [ ] digipass
