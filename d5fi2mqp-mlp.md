@@ -131,7 +131,7 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
     - [x] 1 par de zapatos comodos
     - [x] 1 par de zapatos de seguridad
 - 02-Baño
-  - [ ] 1 Desodorante (al final)
+  - [x] 1 Desodorante (al final)
   - [x] 1 Hilo de dientes (al final)
   - [x] 1 Toalla de baño
   - [x] 1 par de chalas para ducharse
