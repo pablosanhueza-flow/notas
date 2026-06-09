@@ -1,5 +1,8 @@
 # MLP012 AEH - Terreno Aforos Chacay
 
+ARTP: análisis del riesgo de la tarea planificada
+ART: análisis del riesgo de la tarea
+TNC: Trabajos no críticos.
 ## Reunion Presencial con Luciano, Catalina y Gustavo.
 
 *Thursday 28-05-2026*
