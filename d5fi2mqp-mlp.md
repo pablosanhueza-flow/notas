@@ -176,3 +176,19 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
   - preguntar cuales, son tengo estos de la capacitacion
     - emergencias: 569 73777000
     - policlinico: 562 27984231
+
+# Terreno
+- puntos medios:
+- Aguas Abajo BT Pelambres Alternativa
+- Parshall Rio Blanco
+- Parshall antes BT Pelambres Alternativa
+- Parshall Pelambres antes de la Confluencia
+- Aguas Arriba Bocatomas Piuquenes
+- Bocatomas Chacay
+- BT Pelambres (Comunidad)
+- BT Pelambres Alternativa (Planta)
+- BT Pelambres (Planta, Parshall)
+- Parshall Piuquenes antes Confluencia
+- Bocatoma Piuquenes (Planta, Parshall)
+- Canal Bajos Caudales
+- Bocatomas Piuquenes (Comunidad)
