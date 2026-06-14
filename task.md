@@ -8,6 +8,7 @@
 - Instalar la app TimeStamp
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
+- Depositar a viejo y andres
 
 ## Waiting
 
