@@ -5,7 +5,9 @@
 ## Next Actions
 
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
-- Instalar la app TimeStamp
+  - [ ] *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
+  - [ ] *Monday 15-06-2026* Traspasar datos a las planillas de excel originales
+  - [ ] *Monday 15-06-2026* Escanear hojas de datos
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Depositar a viejo y andres

@@ -1,5 +1,9 @@
 # MLP012 AEH - Terreno Aforos Chacay
 
+## LOG
+
+- [x] *Monday 15-06-2026* Pasar fotos y excel al PC
+
 ## Reunion Presencial con Luciano, Catalina y Gustavo.
 
 *Thursday 28-05-2026*
