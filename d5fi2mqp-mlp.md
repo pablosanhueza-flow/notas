@@ -2,7 +2,8 @@
 
 ## LOG
 
-- [x] *Monday 15-06-2026* Pasar fotos y excel al PC
+- *Monday 15-06-2026* Pasar fotos y excel al PC
+  - *Monday 15-06-2026* listo
 
 ## Reunion Presencial con Luciano, Catalina y Gustavo.
 
