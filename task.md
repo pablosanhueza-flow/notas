@@ -12,6 +12,7 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Depositar a viejo y andres
+- Comprar pasajes Santiago a Lagunillas, Viernes 26/jun/2026 Sal. 23:50 pm, Santiago
 
 ## Waiting
 
