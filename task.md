@@ -8,11 +8,11 @@
   - *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
     - *Monday 15-06-2026* Completado
   - *Monday 15-06-2026* Traspasar datos a las planillas de excel originales
+    - averiguar el nombre del molinete
   - *Monday 15-06-2026* Escanear hojas de datos
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Depositar a viejo y andres
-- Comprar pasajes Santiago a Lagunillas, Viernes 26/jun/2026 Sal. 23:50 pm, Santiago
 
 ## Waiting
 
