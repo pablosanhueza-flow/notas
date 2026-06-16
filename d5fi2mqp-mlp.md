@@ -2,6 +2,10 @@
 
 ## LOG
 
+- *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
+  - *Monday 15-06-2026* Completado
+- *Monday 15-06-2026* Traspasar datos a las planillas de excel originales
+  - *Tuesday 16-06-2026* Complete y en la ruta.
 - *Monday 15-06-2026* Pasar fotos y excel al PC
   - *Monday 15-06-2026* listo
 
