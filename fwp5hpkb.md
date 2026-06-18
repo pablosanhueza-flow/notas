@@ -11,6 +11,7 @@
     - aqui estan las recargas por zonas, es una serie de tiempo diaria desde 2009 al 2025, deben estar extraidas de algun modelo hidrologico.
   - .\20250519_Temperatura_La_Tranquilla.xlsx
     - esta la temperatura max y min de la tranquilla a nivel diario desde 1962 a 01/04/2026
+    - [ ] falta la temperatura del mauro
   - Geraldine dice que los caudales y la evapotranspiracion deberian pedirse a la DGA.
     - cuales son las estaciones de caudales?
     - hay datos de evapotranspiracion?
