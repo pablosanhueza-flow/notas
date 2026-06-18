@@ -4,10 +4,10 @@
 
 ## Next Actions
 
+- [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Depositar a viejo y andres
-- OT-35 MC y MN Estribo Derecho - Tranque Mauro
 
 ## Waiting
 
