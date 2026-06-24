@@ -15,3 +15,4 @@
 
 - Crear una lista de las direcciones que empiezan por la palabra *mi [Get-Variable "mi*" | Select-Object Name, Value | Export-Csv -Path .\mis_variables.txt -NoTypeInformation -Encoding utf8]
 - Leer una lirta con las direcciones que empiezan con la palabra *mi [Import-Csv -Path .\mis_variables.txt | ForEach-Object { Set-Variable -Name $*.Name -Value $*.Value } ]
+- Datos de precipitacion se obtuvieron
