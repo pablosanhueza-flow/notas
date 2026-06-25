@@ -19,3 +19,15 @@
   - La idea es que siga lo de este informe
 - RUTA DE LA PETICION DE LA CARTOGRAFIA [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\04.SIG-BD\02_Mapas\00_solicitud_de_figuras]
 - DATOS DE SIG [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT43 Generación BD integrada MLP\03.WIP\02.Hidrología\04.Exportaciones_BD\01.Meteorologia]
+
+## Reunion del dia 24-06-2026
+
+*Wednesday 24-06-2026*
+
+recarga e infiltración, a que escala, mensual? diaria ? los requerimientos de modelacion, recarga desde el deposito?. Recarga que es del tranque que es distintas, la zona C y D. La recarga de la cubeta no se pidió.
+
+La transferencia para modelo numerico se necesitara la recarga de la cubeta tambien o del tranque.
+
+Fernando estuvo trabajando en la OT-55 y representa
+
+G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT36_Actualización MC y MN Portezuelo\03.WIP\02.Hidrología

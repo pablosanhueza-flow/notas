@@ -11,9 +11,8 @@
 
 ## Waiting
 
-- *Monday 01-06-2026* Compre al final las "rad one v2".
-  - Preguntar la siguiente semana por la fecha.
 - [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
   - esperar datos de los puntos faltantes
+- hablar de la actualizacion de los datos
 
 ## Maybe
