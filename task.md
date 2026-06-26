@@ -5,9 +5,7 @@
 ## Next Actions
 
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
-  - *Thursday 25-06-2026*Cambiar la data de diaria a mensual
-  - *Thursday 25-06-2026*pasar de m3/s a l/s
-  - *Thursday 25-06-2026*Agregar Flujo base
+  - *Friday 26-06-2026* Evaporacion
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Comprar cerave para viaje
