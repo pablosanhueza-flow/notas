@@ -1,0 +1,77 @@
+# Lista de ropa para el viaje
+
+- 01-Ropa
+  - a) Cabeza-Cuello
+    - [x] 1 Gorro
+    - [x] 1 Cuello para dormir
+    - [x] 1 Cuello terreno
+    - [ ] 1 gorro sol
+    - [ ] 1 lentes de sol
+  - b) Parte superior
+    - [ ] 2 Poleras manga corta
+    - [ ] 5 Poleras manga larga, agregar una
+    - [ ] 2 primeras capas
+    - [ ] 1 camisa para dormir
+    - [ ] 1 Poleron abrigo
+    - [ ] 1 Chaqueta impermeable
+  - c) Manos
+    - [ ] 1 par Guantes de frio 
+  - d) Piernas
+    - [ ] 6 boxers
+    - [ ] 2 calzas piernas
+    - [ ] 1 Pantalon decente
+    - [ ] 1 pantalon abrigo
+    - [ ] 1 short deportivo 
+    - [ ] 1 pijama pierna
+  - e) Pies
+    - [ ] 5 Calcetines gruesos
+    - [ ] 2 calcetines delgados
+    - [ ] 1 par de zapatos comodos
+    - [ ] 1 par de zapatos de seguridad
+- 02-Baño
+  - [ ] 1 Desodorante (al final)
+  - [ ] 1 Hilo de dientes (al final)
+  - [ ] 1 Toalla de baño
+  - [ ] 1 par de chalas para ducharse
+  - [ ] 1 cepillo
+  - [ ] 1 Cortador de uñas 
+  - [ ] 1 pasta de dientes
+  - [ ] 1 Bolsa para lavar ropa
+  - [ ] 1 Afeitadora 
+- 03-Medicamentos
+  - [ ] cam (picaduras de insecto)
+  - [ ] Mentolatum (final)
+  - [ ] chicle para el mareo(no)
+  - [ ] pastillas para la garganta (no)
+  - [ ] Bloqueador (no)
+- 04-Documentos otros
+  - [ ] Documentos: carnet, licencia, pase escolar, debito
+  - [ ] lentes opticos
+  - [ ] reloj garmin
+- 05-Entretención
+  - [ ] Audifonos
+  - [ ] tablet
+- 06-Comunicaciones
+  - [ ] Cargar dinero chip entel
+  - [ ] Celular
+  - [ ] Cable usb-C y cargador
+  - [ ] mouse y alfombra mouse
+  - [ ] conector hdmi vga
+  - [ ] notebook y cargador
+- 07-Dinero
+  - [ ] App del banco chile Instalada
+  - [ ] digipass
+- 08-EPP:
+  - [ ] 2 camisa manga larga
+  - [ ] 2 Pantalon
+  - [ ] 1 Zapatos de seguridad
+  - [ ] 1 Casco
+  - [ ] 2 Lentes de sol y trasparentes
+  - [ ] 1 Chaleco de seguridad cerrado
+  - [ ] 1 Protector solar
+  - [ ] Hidratacion
+- 09-Registrar numeros telefonicos de emergencia
+  - preguntar cuales, son tengo estos de la capacitacion
+    - emergencias: 569 73777000
+    - policlinico: 562 27984231
+    - 
