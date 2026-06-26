@@ -2,31 +2,31 @@
 
 - 01-Ropa
   - a) Cabeza-Cuello
-    - [ ] 1 Gorro
-    - [ ] 1 Cuello para dormir
-    - [ ] 1 Cuello terreno
+    - [x] 1 Gorro
+    - [x] 1 Cuello para dormir
+    - [x] 1 Cuello terreno
     - [ ] 1 gorro sol
     - [ ] 1 lentes de sol
   - b) Parte superior
-    - [ ] 2 Poleras manga corta
-    - [ ] 5 Poleras manga larga, agregar una
-    - [ ] 2 primeras capas
-    - [ ] 1 camisa para dormir
+    - [x] 2 Poleras manga corta
+    - [x] 5 Poleras manga larga, agregar una
+    - [x] 2 primeras capas
+    - [x] 1 camisa para dormir
     - [ ] 1 Poleron abrigo
-    - [ ] 1 Chaqueta impermeable
+    - [x] 1 Chaqueta impermeable
   - c) Manos
-    - [ ] 1 par Guantes de frio 
+    - [x] 1 par Guantes de frio 
   - d) Piernas
-    - [ ] 6 boxers
-    - [ ] 2 calzas piernas
-    - [ ] 1 Pantalon decente
-    - [ ] 1 pantalon abrigo
-    - [ ] 1 short deportivo 
-    - [ ] 1 pijama pierna
+    - [x] 6 boxers
+    - [x] 2 calzas piernas
+    - [x] 1 Pantalon decente
+    - [x] 1 pantalon abrigo
+    - [x] 1 short deportivo 
+    - [x] 1 pijama pierna
   - e) Pies
-    - [ ] 5 Calcetines gruesos
-    - [ ] 2 calcetines delgados
-    - [ ] 1 par de zapatos comodos
+    - [x] 5 Calcetines gruesos
+    - [x] 2 calcetines delgados
+    - [x] 1 par de zapatos comodos
     - [ ] 1 par de zapatos de seguridad
 - 02-Baño
   - [ ] 1 Desodorante (al final)
@@ -61,17 +61,3 @@
 - 07-Dinero
   - [ ] App del banco chile Instalada
   - [ ] digipass
-- 08-EPP:
-  - [ ] 2 camisa manga larga
-  - [ ] 2 Pantalon
-  - [ ] 1 Zapatos de seguridad
-  - [ ] 1 Casco
-  - [ ] 2 Lentes de sol y trasparentes
-  - [ ] 1 Chaleco de seguridad cerrado
-  - [ ] 1 Protector solar
-  - [ ] Hidratacion
-- 09-Registrar numeros telefonicos de emergencia
-  - preguntar cuales, son tengo estos de la capacitacion
-    - emergencias: 569 73777000
-    - policlinico: 562 27984231
-    - 
