@@ -2,9 +2,9 @@
 
 - 01-Ropa
   - a) Cabeza-Cuello
-    - [x] 1 Gorro
-    - [x] 1 Cuello para dormir
-    - [x] 1 Cuello terreno
+    - [ ] 1 Gorro
+    - [ ] 1 Cuello para dormir
+    - [ ] 1 Cuello terreno
     - [ ] 1 gorro sol
     - [ ] 1 lentes de sol
   - b) Parte superior
