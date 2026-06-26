@@ -5,7 +5,9 @@
 ## Next Actions
 
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
-  - *Wednesday 17-06-2026* Revision de antecedentes y listado de figuras a realizar
+  - *Thursday 25-06-2026*Cambiar la data de diaria a mensual
+  - *Thursday 25-06-2026*pasar de m3/s a l/s
+  - *Thursday 25-06-2026*Agregar Flujo base
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 
