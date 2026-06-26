@@ -10,6 +10,7 @@
   - *Thursday 25-06-2026*Agregar Flujo base
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
+- Comprar cerave para viaje
 
 ## Waiting
 
