@@ -2,6 +2,7 @@
 
 ## LOG
 
+- *Friday 26-06-2026* Evaporacion
 - *Thursday 25-06-2026*Cambiar la data de diaria a mensual
 - *Thursday 25-06-2026*pasar de m3/s a l/s
 - *Thursday 25-06-2026*Agregar Flujo base
@@ -25,10 +26,17 @@
   - La idea es que siga lo de este informe
 - RUTA DE LA PETICION DE LA CARTOGRAFIA [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\04.SIG-BD\02_Mapas\00_solicitud_de_figuras]
 - RUTA DE LOS RESULTADOS DE LA CARTOGRAFIA [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\04.SIG-BD\05_WIP\000-Solicitud de Figuras\Hidrologia]
+- RUTA DE LOS RESULTADOS DE LA CARTOGRAFIA ACTUALIZADAS [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\04.SIG-BD\02_Mapas\00_Rev_junio2026\HDL]
 - DATOS DE SIG [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT43 Generación BD integrada MLP\03.WIP\02.Hidrología\04.Exportaciones_BD\01.Meteorologia]
 - CAUDAL BASE EIA [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\04.SIG-BD\05_WIP\000-Solicitud de Figuras\Hidrologia]
   - Caudales Filtrado Mauro 10.05.2023.xlsx
 - RUTA DEL INFORME DONDE APARECE LA EVAPORACION [G:\Unidades compartidas\03.2 Proyectos MLP4\13.COT026 -Apoyo ICSARA 2\07.Entregables\04.Reportes\10.MC_HDG_Mauro\RevB]
+- RUTAS PARA LOS DERECHOS DE AGUA SUPERFICIALES
+  - [G:\Unidades compartidas\03.2 Proyectos MLP4\13.COT026 -Apoyo ICSARA 2\07.Entregables\04.Reportes\08.MHidrológico_Mauro\Apéndices]
+    - Apendice 3.9.8.3 - Extracciones Superficiales.docx
+  - [G:\Unidades compartidas\03.2 Proyectos MLP4\05.COT021 Apoyo ICSARA 1\07.Entregables\07. Fichas\01.Junio2025\Fichas\06. entrega 23 junio 2025]
+    - Ficha III.4.1_Rev.B.docx
+    - Ficha III.4.2_Rev.B.docx
 
 ## Reunion del dia 24-06-2026
 

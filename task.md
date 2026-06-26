@@ -5,7 +5,6 @@
 ## Next Actions
 
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
-  - *Friday 26-06-2026* Evaporacion
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Junio
 - Comprar cerave para viaje
