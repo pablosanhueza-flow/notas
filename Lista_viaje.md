@@ -29,11 +29,11 @@
     - [x] 1 par de zapatos comodos
     - [ ] 1 par de zapatos de seguridad
 - 02-Baño
-  - [ ] 1 Desodorante (al final)
-  - [ ] 1 Hilo de dientes (al final)
-  - [ ] 1 Toalla de baño
-  - [ ] 1 par de chalas para ducharse
-  - [ ] 1 cepillo
+  - [x] 1 Desodorante (al final)
+  - [x] 1 Hilo de dientes (al final)
+  - [x] 1 Toalla de baño
+  - [x] 1 par de chalas para ducharse
+  - [x] 1 cepillo
   - [ ] 1 Cortador de uñas 
   - [ ] 1 pasta de dientes
   - [ ] 1 Bolsa para lavar ropa
