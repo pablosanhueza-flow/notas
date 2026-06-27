@@ -39,11 +39,11 @@
   - [ ] 1 Bolsa para lavar ropa
   - [ ] 1 Afeitadora 
 - 03-Medicamentos
-  - [ ] cam (picaduras de insecto)
-  - [ ] Mentolatum (final)
+  - [x] cam (picaduras de insecto)
+  - [x] Mentolatum (final)
   - [ ] chicle para el mareo(no)
   - [ ] pastillas para la garganta (no)
-  - [ ] Bloqueador (no)
+  - [x] Bloqueador (no)
 - 04-Documentos otros
   - [ ] Documentos: carnet, licencia, pase escolar, debito
   - [ ] lentes opticos
@@ -52,8 +52,8 @@
   - [ ] Audifonos
   - [ ] tablet
 - 06-Comunicaciones
-  - [ ] Cargar dinero chip entel
-  - [ ] Celular
+  - [x] Cargar dinero chip entel
+  - [x] Celular
   - [ ] Cable usb-C y cargador
   - [ ] mouse y alfombra mouse
   - [ ] conector hdmi vga
