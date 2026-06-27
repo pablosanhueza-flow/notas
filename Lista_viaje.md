@@ -34,10 +34,10 @@
   - [x] 1 Toalla de baño
   - [x] 1 par de chalas para ducharse
   - [x] 1 cepillo
-  - [ ] 1 Cortador de uñas 
-  - [ ] 1 pasta de dientes
-  - [ ] 1 Bolsa para lavar ropa
-  - [ ] 1 Afeitadora 
+  - [x] 1 Cortador de uñas 
+  - [x] 1 pasta de dientes
+  - [x] 1 Bolsa para lavar ropa
+  - [x] 1 Afeitadora 
 - 03-Medicamentos
   - [x] cam (picaduras de insecto)
   - [x] Mentolatum (final)
@@ -49,15 +49,15 @@
   - [ ] lentes opticos
   - [ ] reloj garmin
 - 05-Entretención
-  - [ ] Audifonos
-  - [ ] tablet
+  - [x] Audifonos
+  - [x] tablet
 - 06-Comunicaciones
   - [x] Cargar dinero chip entel
-  - [x] Celular
-  - [ ] Cable usb-C y cargador
-  - [ ] mouse y alfombra mouse
-  - [ ] conector hdmi vga
-  - [ ] notebook y cargador
+  - [ ] Celular
+  - [x] Cable usb-C y cargador
+  - [x] mouse y alfombra mouse
+  - [x] conector hdmi vga
+  - [x] notebook y cargador
 - 07-Dinero
-  - [ ] App del banco chile Instalada
-  - [ ] digipass
+  - [x] App del banco chile Instalada
+  - [x] digipass
