@@ -7,9 +7,11 @@
 - *Thursday 25-06-2026*pasar de m3/s a l/s
 - *Thursday 25-06-2026*Agregar Flujo base
 
-## Reunion con Geraldine OT-35
+## RUTAS
 
 - RUTA DEL REPORTE [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\07.Entregables\04.Reportes]
+- RUTA DE WIP [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT35_MC y MN Estribo Derecho\03.WIP\02.Hidrología\02. Caracterizacion]
+- RUTA EIA [G:\Unidades compartidas\03.2 Proyectos MLP4\13.COT026 -Apoyo ICSARA 2\07.Entregables\04.Reportes\10.MC_HDG_Mauro\RevB]
 - RUTA DE LOS DATOS DE ENTRADA OT-55 [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT55 MN operacional pozos PB\03.WIP\02.Hidrología\01. Datos entrada]
   - El fernando lizama estaba trabajando en la actualizacion de los datos de precipitacion y temperatura
   - 20260519_Precipitaciones_Diarias.xlsx

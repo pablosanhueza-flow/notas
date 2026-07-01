@@ -2,7 +2,6 @@
 
 - Devolver el cilindro de la silla
   - *Friday 29-05-2026* se devolvio y se envió la cuenta por correo
-- [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
 - Leer "Revisión de informe ODS23b, Memoria de cálculo hidráulico"
 - Balance por sectores
 - [Traspaso ORD108](2tid1rkd-mlp.md)
@@ -17,3 +16,5 @@
 - [Piscina Camisas Quelén](osnfs3cb-mlp.md)
 - [Informe Calibracion MBIO V19](ynzd4t1p-mlp.md)
 - [Academia MLP](btvaswaz-mlp.md)
+- [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
+  - esperar datos de los puntos faltantes

@@ -9,6 +9,10 @@
 - *Monday 15-06-2026* Pasar fotos y excel al PC
   - *Monday 15-06-2026* listo
 
+## RUTAS
+
+- RUTA WIP [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\03.WIP\05.Terreno\07.jun2026]
+
 ## Reunion Presencial con Luciano, Catalina y Gustavo.
 
 *Thursday 28-05-2026*

@@ -5,14 +5,14 @@
 ## Next Actions
 
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
+- [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
+  - Esperar los datos nuevos
+  - Escribir el informe
 - [Capacitaciones ACHS](capacitaciones-achs.md)
-  - La de Junio
-- Comprar cerave para viaje
+  - La de Julio
 
 ## Waiting
 
-- [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
-  - esperar datos de los puntos faltantes
 - hablar de la actualizacion de los datos
 
 ## Maybe
