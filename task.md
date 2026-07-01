@@ -4,6 +4,7 @@
 
 ## Next Actions
 
+- [Kinross la Coipa](zwsry5j8.md)
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
   - Esperar los datos nuevos
