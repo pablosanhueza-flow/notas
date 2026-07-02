@@ -2,6 +2,7 @@
 
 ## RUTAS
 
+- RUTA WIP [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_antecedentes]
 - RUTA DE LOS DOCUMENTOS DE INFORMACION PUBLICA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\02.Antecedentes\02.Publica]
   - Ya se hizo un resumen en el documento "Resumen de antecedentes_SEA Chile.xlsx".
 

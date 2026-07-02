@@ -2,6 +2,7 @@
 
 ## LOG
 
+- *Wednesday 01-07-2026* se dio por terminado esto.
 - *Friday 26-06-2026* Evaporacion
 - *Thursday 25-06-2026*Cambiar la data de diaria a mensual
 - *Thursday 25-06-2026*pasar de m3/s a l/s

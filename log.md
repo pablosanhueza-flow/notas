@@ -18,3 +18,4 @@
 - [Academia MLP](btvaswaz-mlp.md)
 - [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
   - esperar datos de los puntos faltantes
+- [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
