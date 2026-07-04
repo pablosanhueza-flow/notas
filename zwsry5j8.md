@@ -2,7 +2,7 @@
 
 ## RUTAS
 
-- RUTA WIP [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_antecedentes]
+- RUTA WIP [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_RevAntecedentes]
 - RUTA DE LOS DOCUMENTOS DE INFORMACION PUBLICA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\02.Antecedentes\02.Publica]
   - Ya se hizo un resumen en el documento "Resumen de antecedentes_SEA Chile.xlsx".
 - RUTA BBDD TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa]
@@ -54,7 +54,10 @@
   - Ver que temporalidad tienen
   - Redactar la parte de meteorogía
     - *Saturday 04-07-2026* Falta la estacion caldera de temperatura, pero esta en precipitacion XD esta es de la DMC.
-    - *Saturday 04-07-2026* Se encuentra que las estaciones de temperatura solo estan hasta el 2017 y segun el EIA 2025, tienen informacion hasta el 2024 y eso que la obtuvimos de la pagina oficial.
+      - Bitacora de la estacion Caldera [https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/270006]
+        - Se nota que empezo el 2016 -al contrario de 2005 como señala el EIA- y que esta mucho más en la Costa, que lo que muestra la imagen de EIA2025.
+    - *Saturday 04-07-2026* Se encuentra que las estaciones de temperatura DGA solo estan hasta el 2017 y segun el EIA 2025, tienen informacion hasta el 2024 y eso que la obtuvimos de la pagina oficial.
+      - Se busco en [https://snia.mop.gob.cl/BNAConsultas/reportes] tambien y no se encontro más info de las estaciones de temperatura y eso que dice que las estaciones de meteorologia están vigentes.
       - Se deberá pedir por transparencia?
 - [ ] Redactar la parte de Caudales
 - [ ] Redactar la parte de Evapotranspiracion
