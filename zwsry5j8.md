@@ -5,8 +5,8 @@
 - RUTA WIP [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_antecedentes]
 - RUTA DE LOS DOCUMENTOS DE INFORMACION PUBLICA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\02.Antecedentes\02.Publica]
   - Ya se hizo un resumen en el documento "Resumen de antecedentes_SEA Chile.xlsx".
-- RUTA BBDD [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa]
-- RUTA TABLAS [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa\03_Tablas]
+- RUTA BBDD TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa]
+- RUTA TABLAS TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa\03_Tablas]
 
 ## Reunion con Nico y Seba
 
@@ -27,16 +27,36 @@
 - SNIFA: es otra entidad medioambiental, parte de la superintendencia de medio-ambiente.
 - Enfocarse el los documentos SEA.
 - Fernando tiene un documento que en un ejemplo, esta en el chat del equipo.
-- [ ] Figuras con las estaciones por caudales, precipitacion y temperatura.
+- [x] Figuras con las estaciones por caudales, precipitacion y temperatura.
 - hablar con Camila OTAZO.
 - 21:06 estimacion de recarga.
 - 23:04 la componente nieve es importante, siempre se puede recurrir a coberturas satelitales.
 - Pero enfocarse en la informacion publica primero.
 - Max hebel, preguntar saber que en que temporalidad y espacial necesita, para actualizar el modelo.
-- [ ] Hacer una ppt con los cosas encontrados en los informes. Para mañana.
+- [x] Hacer una ppt con los cosas encontrados en los informes. Para mañana.
 
 ## Reunion con Nico y seba 2
 
 *Thursday 02-07-2026*
 
-- [ ] Preguntar si esto tambien va "Hidrología sector Maricunga"
+- [x] Preguntar si esto tambien va "Hidrología sector Maricunga"
+  - no, solo cuenca La Coipa-Puren
+- Calcular la SUBLIMACION de la nieve con  VAR RAD y TEMP y VEL y HR. Antes de Penman-Monteith
+- Ver EIA EVU con GoldSim que calcula la sublimacion con RAD principalmente.
+- Ubicación de las estaciones
+- Carolina Cordova y Felipe Quiroz
+
+## Reunion con Nico y Seba 3
+
+*Friday 03-07-2026*
+
+- [ ] Descargar los datos de las estaciones
+  - Ver que temporalidad tienen
+  - Redactar la parte de meteorogía
+- [ ] Redactar la parte de Caudales
+- [ ] Redactar la parte de Evapotranspiracion
+  - Preguntar si tienen un evaporimetro de bandeja.
+  - Preguntar si tienen una COT (Carta de Ocupación de Tierras) con variación temporal o una básica.
+    - shapes files de áreas de vegetación, cuerpos de agua, suelo, nieve.
+- estimaciones de sublimación.
+  - Por definir porque no sabemos bien que metodologia de recarga ocuparemos.

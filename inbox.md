@@ -13,7 +13,3 @@ https://ihsingenieria.cl/utilidades/analisis-de-frecuencia/ (Teclado nuevo)[http
 - Tomate
 - Papas fritas prefitas
 - Chocolate pequeño
-
-## test
-
-- Primer elemento

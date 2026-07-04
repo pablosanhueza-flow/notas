@@ -4,7 +4,7 @@
 
 ## Next Actions
 
-- [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
+- [Kinross la Coipa](zwsry5j8.md)
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
   - Esperar los datos nuevos
   - Escribir el informe
@@ -14,6 +14,3 @@
 ## Waiting
 
 - hablar de la actualizacion de los datos
-
-## Maybe
-- Segundo elemento
