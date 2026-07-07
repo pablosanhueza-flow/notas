@@ -2,6 +2,8 @@
 
 ## LOG
 
+- [ ] Escribir el informe
+- [x] Esperar los datos nuevos
 - *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
   - *Monday 15-06-2026* Completado
 - *Monday 15-06-2026* Traspasar datos a las planillas de excel originales
