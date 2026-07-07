@@ -50,7 +50,7 @@
 
 *Friday 03-07-2026*
 
-- [ ] Descargar los datos de las estaciones
+- [x] Descargar los datos de las estaciones
   - Ver que temporalidad tienen
   - Redactar la parte de meteorogía
     - *Saturday 04-07-2026* Falta la estacion caldera de temperatura, pero esta en precipitacion XD esta es de la DMC.
@@ -59,8 +59,8 @@
     - *Saturday 04-07-2026* Se encuentra que las estaciones de temperatura DGA solo estan hasta el 2017 y segun el EIA 2025, tienen informacion hasta el 2024 y eso que la obtuvimos de la pagina oficial.
       - Se busco en [https://snia.mop.gob.cl/BNAConsultas/reportes] tambien y no se encontro más info de las estaciones de temperatura y eso que dice que las estaciones de meteorologia están vigentes.
       - Se deberá pedir por transparencia?
-- [ ] Redactar la parte de Caudales
-- [ ] Redactar la parte de Evapotranspiracion
+- [x] Redactar la parte de Caudales
+- [x] Redactar la parte de Evapotranspiracion
   - Preguntar si tienen un evaporimetro de bandeja.
   - Preguntar si tienen una COT (Carta de Ocupación de Tierras) con variación temporal o una básica.
     - shapes files de áreas de vegetación, cuerpos de agua, suelo, nieve.
