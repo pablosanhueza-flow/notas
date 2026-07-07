@@ -11,6 +11,12 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Julio
 
+## Programa Jovenes Profesionales
+
+### Nota0000
+
+- [ ] *Tuesday 07-07-2026* Realizar el bloqueo de horario como lo indican en el chat de teams.
+
 ## Waiting
 
 - hablar de la actualizacion de los datos
