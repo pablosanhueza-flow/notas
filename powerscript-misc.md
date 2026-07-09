@@ -9,10 +9,10 @@
 | pushdh / popd                       | agrega la ruta al stack / te lleva de vuelta a la ruta anterior |
 | pwd - Set-Clipboard                 | copiar la ruta al clipboard                                     |
 | Get-Alias -Definition Get-ChildItem | saber los alias de los comandos                                 |
-| ls "*pdf"                           | % {start $_.FullName}                                           |
 | gc .\lista_puntos.txt               | % {mkdir $_}                                                    |
 
 
+- Para abrir todos los archivos jpg: [ls "*.jpg" | % {start $_.FullName}]
 - Crear una lista de las direcciones que empiezan por la palabra *mi [Get-Variable "mi*" | Select-Object Name, Value | Export-Csv -Path .\mis_variables.txt -NoTypeInformation -Encoding utf8]
 - Leer una lirta con las direcciones que empiezan con la palabra *mi [Import-Csv -Path .\mis_variables.txt | ForEach-Object { Set-Variable -Name $*.Name -Value $*.Value } ]
 - Para iniciar una aplicacion en una nueva pestaña [wt -d . pwsh -noe -c "hx main.R"] [start pwsh -Args "-NoExit", "-Command", "hx main.R"] [pwsh -noe -c "hx main.R"]

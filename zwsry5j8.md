@@ -6,6 +6,7 @@
 - RUTA DE LOS DOCUMENTOS DE INFORMACION PUBLICA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\02.Antecedentes\02.Publica]
   - Ya se hizo un resumen en el documento "Resumen de antecedentes_SEA Chile.xlsx".
 - RUTA BBDD TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa]
+  - *Wednesday 08-07-2026* ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\Exportaciones\20260708_1200"]
 - RUTA TABLAS TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa\03_Tablas]
 
 ## Reunion con Nico y Seba

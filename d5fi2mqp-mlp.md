@@ -14,6 +14,7 @@
 ## RUTAS
 
 - RUTA WIP [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\03.WIP\05.Terreno\07.jun2026]
+- RUTA INFORME [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\07.Entregables\03.Memos\09.Junio_2026]
 
 ## Reunion Presencial con Luciano, Catalina y Gustavo.
 
@@ -55,7 +56,7 @@
 - Ruta Procedimiento: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\07.Entregables\00 Procedimiento]
 - Ruta KMZ puntos: [G:\Unidades compartidas\03.2 Proyectos MLP5\MLP012-Aforos\03.WIP\02.Hidrología\KMZ]
 - El procedemiento esta en la carpeta 07.Entregables.
-  - [ ] Cargar y revisar el procedimiento en pdf en el celular.
+  - [x] Cargar y revisar el procedimiento en pdf en el celular.
     - cargado a la tablet
   - Ficha de registro que hay que llenar
   - GPS es la app del celular, la precisión es suficiente.
@@ -64,15 +65,15 @@
   - Están los números de emergencia
     - [x] Me agregaran a un grupo de wsp de numeros
       - *Friday 05-06-2026* me agregaron al grupo
-  - [ ] Se debe imprimir y firmar el recibo de te documento.
+  - [x] Se debe imprimir y firmar el recibo de te documento.
     - *Friday 05-06-2026* a que documento se refiere?
 - Memos
   - Hay muchos puntos que estan secos, pero hay que registrarlo lo que esta pasando.
   - Hay puntos sin acceso
   - AForos chacay acumulados: Datos historicos.
-  - [ ] se debe pedir el apoyo historico.
+  - [x] se debe pedir el apoyo historico.
   - Ver Registro de fotos.
-- [ ] Cargar horas de preparación para el terreno.
+- [x] Cargar horas de preparación para el terreno.
   - Leer los documentos
   - Academia MLP
   - Evaluación Ocupacional
@@ -91,24 +92,24 @@
 P6: Realizar una confirmacion de Rol. - Realizar una comprobacion del rol en el cambio de turno.
 
 - examenes vencen los mios : 22/05/2029
-- [ ] el procedimiento de los aforos esta trabajado
+- [x] el procedimiento de los aforos esta trabajado
   - La catalina va a imprimir los documentos
 - ARTP o cuando se ultiliza las TNC tarea no critica, en esta caso para aforo.
   - los controles deben estar ok antes de hacer la tarea
 - yo digo no: detener la actividad si es que falta un control critico que no esta implementado.
-- [ ]  p16: conocer el numero de emergencia
+- [x]  p16: conocer el numero de emergencia
   - ubicar PEE cercanos al sectory avisar por radio, emergencia x3
     - se activa el flujograma de emergencia de flow
-- [ ] saber el top 4
+- [x] saber el top 4
 - a nivel contrato no hemos tenido ningun evento de alta energia.
-- [ ] que es el CECOM
-- [ ] Estudiar el RECCS que son preguntas que me va a ser Francisco.
+- [x] que es el CECOM
+- [x] Estudiar el RECCS que son preguntas que me va a ser Francisco.
 - Juntarno en la zona de bajos Caudales, arriba de embalse de Cola, reunion con francisco Aguilera.
 - Gustavo
-- [ ] Revisar procedimiento de Aforos
-- [ ] Enviar certificados de la academia de MLP, a Catalina.
-- [ ] Temas de transporte por Abel. Ver el tema con el Diego, pero lo verá gustavo.
-- [ ] el numero de Francisco Aguilera
+- [x] Revisar procedimiento de Aforos
+- [x] Enviar certificados de la academia de MLP, a Catalina.
+- [x] Temas de transporte por Abel. Ver el tema con el Diego, pero lo verá gustavo.
+- [x] el numero de Francisco Aguilera
 
 ## Lista de ropa para el viaje
 
@@ -118,9 +119,9 @@ Tiempo: 5 días Lugar : Cuncumen, frío-templado, 5º min.
 
 - 01-Ropa
   - a) Cabeza-Cuello
-    - [x] 1 Gorro
-    - [x] 1 Cuello para dormir
-    - [x] 1 Cuello terreno
+    - [ ] 1 Gorro
+    - [ ] 1 Cuello para dormir
+    - [ ] 1 Cuello terreno
     - [ ] 1 gorro sol
     - [ ] 1 lentes de sol
   - b) Parte superior
