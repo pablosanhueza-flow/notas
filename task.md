@@ -10,6 +10,6 @@
   - La de Julio
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
 - pagar FSCU
-- Pedir vacaciones
+- Poner las vacaciones en el calentario
 
 ## Waiting

@@ -3,6 +3,9 @@
 ## LOG
 
 - [ ] Escribir el informe
+  - [ ] Pedir la cartografia
+  - [ ] Conclusiones y revision del documento (las fotos ya estan revisadas)
+  - [ ] Crear los anexos en pdf, pero la planilla .xlsx esta lista y unirlos al documento.
 - [x] Esperar los datos nuevos
 - *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
   - *Monday 15-06-2026* Completado
