@@ -45,3 +45,20 @@ S = Shift C = Control
 - Pen tool/ Bezier Path + CTRL : dibuja una linea vertical o horizontal.
 - Para cambiar el font de un Text Objectes tienes que hacer doble click, seleccionar el texto y en el menu de arriba cambiar el tamaño.
 - S + Click: Me permite seleccionar varios objetos a la vez.
+
+### 7. Example Problem 1: Solution
+
+- Me enseñaron a resolver el problema
+
+### 8. Microsoft Word
+
+- Exportar a png para pegarlo en word
+- Fijar ancho al tamaño de la pagina
+- Fijar algo a la figura
+- 300 ppi, pixeles per inch
+- La letra tiene que ser del mismo estilo y tamaño que la del texto.
+
+### 9. Microsoft PowerPoint
+
+- Crear rectangulo en la presentación para ver el real tamaño que tendrá la figura.
+- Agrandar letra a la presentacion

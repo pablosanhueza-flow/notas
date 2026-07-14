@@ -1,5 +1,8 @@
 # Log
 
+- LOG:
+- pagar FSCU
+  - *Monday 13-07-2026* Listo
 - Devolver el cilindro de la silla
   - *Friday 29-05-2026* se devolvio y se envió la cuenta por correo
 - Leer "Revisión de informe ODS23b, Memoria de cálculo hidráulico"

@@ -1,5 +1,9 @@
 # Kinross la Coipa
 
+## LOG
+
+- [ ] Hacer la peticion de informacion a la DGA
+
 ## RUTAS
 
 - RUTA WIP [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_RevAntecedentes]

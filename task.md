@@ -9,7 +9,7 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Julio
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
-- pagar FSCU
 - Poner las vacaciones en el calentario
+- Correr la reu de JP
 
 ## Waiting

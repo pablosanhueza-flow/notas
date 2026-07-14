@@ -4,6 +4,7 @@
 
 - [ ] Escribir el informe
   - [ ] Pedir la cartografia
+    - *Monday 13-07-2026* Enviada la solicitud en google Forms
   - [ ] Conclusiones y revision del documento (las fotos ya estan revisadas)
   - [ ] Crear los anexos en pdf, pero la planilla .xlsx esta lista y unirlos al documento.
 - [x] Esperar los datos nuevos
