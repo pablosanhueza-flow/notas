@@ -2,7 +2,9 @@
 
 ## LOG
 
-- [ ] Hacer la peticion de informacion a la DGA
+- [ ] Hacer la peticion de informacion a la DGA y DMC
+  - en este link [https://www.chileatiende.gob.cl/fichas/65778-solicitar-informacion-publica-a-la-direccion-general-de-aguas-ley-de-transparencia]
+  - Falta la petición a la DMC
 
 ## RUTAS
 
@@ -58,6 +60,7 @@
 - [x] Descargar los datos de las estaciones
   - Ver que temporalidad tienen
   - Redactar la parte de meteorogía
+    - La informacion de pp y temp se obtuvo de [https://mapas2.mop.gob.cl/]
     - *Saturday 04-07-2026* Falta la estacion caldera de temperatura, pero esta en precipitacion XD esta es de la DMC.
       - Bitacora de la estacion Caldera [https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/270006]
         - Se nota que empezo el 2016 -al contrario de 2005 como señala el EIA- y que esta mucho más en la Costa, que lo que muestra la imagen de EIA2025.
