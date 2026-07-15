@@ -2,11 +2,11 @@
 
 ## LOG
 
-- [ ] Escribir el informe
-  - [ ] Pedir la cartografia
+- [x] Escribir el informe
+  - [x] Pedir la cartografia
     - *Monday 13-07-2026* Enviada la solicitud en google Forms
-  - [ ] Conclusiones y revision del documento (las fotos ya estan revisadas)
-  - [ ] Crear los anexos en pdf, pero la planilla .xlsx esta lista y unirlos al documento.
+  - [x] Conclusiones y revision del documento (las fotos ya estan revisadas)
+  - [x] Crear los anexos en pdf, pero la planilla .xlsx esta lista y unirlos al documento.
 - [x] Esperar los datos nuevos
 - *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
   - *Monday 15-06-2026* Completado
@@ -113,7 +113,7 @@ P6: Realizar una confirmacion de Rol. - Realizar una comprobacion del rol en el 
 - [x] Revisar procedimiento de Aforos
 - [x] Enviar certificados de la academia de MLP, a Catalina.
 - [x] Temas de transporte por Abel. Ver el tema con el Diego, pero lo verá gustavo.
-- [x] el numero de Francisco Aguilera
+- [ ] el numero de Francisco Aguilera
 
 ## Lista de ropa para el viaje
 
