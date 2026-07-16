@@ -2,7 +2,9 @@
 
 ## LOG
 
-- [ ] Hacer la peticion de informacion a la DGA y DMC
+- [ ] Leer mapas ERA5 Land y GPM IMERG v07 Final
+  - Ver esto [https://developers.google.com/earth-engine/guides/python_install?hl=es-419]
+- [x] Hacer la peticion de informacion a la DGA y DMC
   - en este link [https://www.chileatiende.gob.cl/fichas/65778-solicitar-informacion-publica-a-la-direccion-general-de-aguas-ley-de-transparencia]
   - Falta la petición a la DMC
 
