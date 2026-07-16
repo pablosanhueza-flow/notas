@@ -7,6 +7,7 @@
     - *Monday 13-07-2026* Enviada la solicitud en google Forms
   - [x] Conclusiones y revision del documento (las fotos ya estan revisadas)
   - [x] Crear los anexos en pdf, pero la planilla .xlsx esta lista y unirlos al documento.
+  - *Wednesday 15-07-2026* Se entrego a Gustavo Calle
 - [x] Esperar los datos nuevos
 - *Monday 15-06-2026* Ordenar fotos en carpetas por lugar
   - *Monday 15-06-2026* Completado
