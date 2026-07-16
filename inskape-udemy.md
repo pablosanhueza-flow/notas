@@ -62,3 +62,31 @@ S = Shift C = Control
 
 - Crear rectangulo en la presentación para ver el real tamaño que tendrá la figura.
 - Agrandar letra a la presentacion
+
+### 10. Latex (Report)
+
+- No se realizo porque no trabajaré con latex, lo unico que se puede decir es que Latex puede importar las imagenes .svg directamente, sin transformarlo en png.
+
+### 11. Latex (Beamer Presentations)
+
+- No se realizo
+
+### 12. Alignment and Distribution of Objects
+
+- La idea de este video es controlar exactamente las dimensiones del los dibujos. Para lucir super precisos en los documentos.
+- Fijar las dimensiones del documento en "Document Properties" para calzar exactamente con el word.
+  - Le resta 4 cm al Width para tomar en cuenta los margenes 2 cm por lado.
+- Recuerda como se modifica los tamaños de un rect, moviendo las manijas de los lados o manteniendo LEFTCTRL para que se mantengan las dimensiones.
+  - Existe un Anchor point o un punto de inicio que mueve el rectangulo en X e Y de arriba.Que mueven en un plano cartesiano.
+  - Se puede hacer lo mismo para el W y H.
+  - Locked icon mantiene las proporciones.
+  - Sirve para otras figuras tambien como los circulos.
+- ALIGNMENT TOOL:
+  - Object/Align and Distribute.
+  - Diferentes simbolos para alinear las figuras.
+  - HOLD SHIFT para seleccionar las dos figuras y seleccionar una alineacion (align to horizontal center).
+    - Es importante que el primer objeto es el que se va a mover, por eso el RELATIVE TO tiene que ser el circulo o el que se va a quedar quieto.
+  - Exist en el mismo panel un RELATIVE TO (PAGE) que hace que se alineen las figuras con la pagina, en vez de entre ellas.
+- Se puede usar para textos y otros Objetos de Inskape.
+- Crear un linea y hacer doble click para terminar y CTRL para alinear en 90 grados.
+- Uso align left edge (relative to Last Select) para que la linea se posicionara al lado del circulo y no quedara separada de el. Recuerda seleccionar ambos objetos con LEFT SHIFT.
