@@ -8,6 +8,8 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Julio
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
+- Actualizar curriculum Flow
+  - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 
 ## Waiting
 
