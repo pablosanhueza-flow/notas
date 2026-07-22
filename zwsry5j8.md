@@ -65,6 +65,7 @@
     - La informacion de pp y temp se obtuvo de [https://mapas2.mop.gob.cl/]
     - *Saturday 04-07-2026* Falta la estacion caldera de temperatura, pero esta en precipitacion XD esta es de la DMC.
       - Bitacora de la estacion Caldera [https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/270006]
+      - [ ] *Tuesday 21-07-2026* Curiosamente si encontré información te temperatura asi que habría que extraer esta información de la data historica.
         - Se nota que empezo el 2016 -al contrario de 2005 como señala el EIA- y que esta mucho más en la Costa, que lo que muestra la imagen de EIA2025.
     - *Saturday 04-07-2026* Se encuentra que las estaciones de temperatura DGA solo estan hasta el 2017 y segun el EIA 2025, tienen informacion hasta el 2024 y eso que la obtuvimos de la pagina oficial.
       - Se busco en [https://snia.mop.gob.cl/BNAConsultas/reportes] tambien y no se encontro más info de las estaciones de temperatura y eso que dice que las estaciones de meteorologia están vigentes.
