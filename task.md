@@ -10,7 +10,6 @@
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
 - Actualizar curriculum Flow
   - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
-- Subsanar la peticion a la DGA XD
 
 ## Waiting
 

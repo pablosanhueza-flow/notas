@@ -90,3 +90,20 @@ S = Shift C = Control
 - Se puede usar para textos y otros Objetos de Inskape.
 - Crear un linea y hacer doble click para terminar y CTRL para alinear en 90 grados.
 - Uso align left edge (relative to Last Select) para que la linea se posicionara al lado del circulo y no quedara separada de el. Recuerda seleccionar ambos objetos con LEFT SHIFT.
+
+### 13. Latex Equations in Inkscape
+
+- Para escribir latex en Inskcape se necesita otro programa externa, el programa se llama KLatexFormula.
+- Es un programa que uno le escribe la ecuacion en latex y se obtiene una imagen que puede ser importado a inskape
+  - File / Import / Import a PDF file
+- Para borrar una formula que ya existia en la imagen, solo le puso un rectangulo blanco arriba.
+- TIP para cambiar el borde de un rect con los colores de la barra de abajo, se debe mantener apretado el SHIFT y luego el color.
+- LAYER/TRANSFORM para rotar una figura.
+- Existen otras formas modernas para insertar latex en inskape.
+
+### 14. Creating Complex Diagrams by Tracing
+
+- Primero creo el canvas con el tamaño para que se pegué en la hoja de word.
+- Tengo una imagen complicada y lo que hago es sacar esa imagen de internet o algo parecido y hacerle un tracing con Braziel tool , que no es más que dibujar manualmente la linea encima de la figura.
+  - Además existe una opcion de suavisar las lineas para que la figura parezca más redondeada.
+- Luego le agrego flechas y agregó texto en latex con el software Klatex Formula.

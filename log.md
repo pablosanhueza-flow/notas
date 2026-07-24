@@ -1,6 +1,8 @@
 # Log
 
 - LOG:
+- Subsanar la peticion a la DGA
+  - *Tuesday 21-07-2026* Respondido el correo.
 - pagar FSCU
   - *Monday 13-07-2026* Listo
 - Devolver el cilindro de la silla
