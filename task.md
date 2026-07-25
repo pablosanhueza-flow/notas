@@ -8,6 +8,8 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Julio
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
+  - Reprogramar la mentoria, hablar con josefina
+  - Terminar el curso y tener un temario.
 - Actualizar curriculum Flow
   - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 
