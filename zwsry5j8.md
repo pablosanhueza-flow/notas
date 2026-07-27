@@ -2,9 +2,12 @@
 
 ## LOG
 
-- [ ] Leer mapas ERA5 Land y GPM IMERG v07 Final
+- [ ] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
+- [ ] *MAYBE* *Monday 27-07-2026* Extender el gradiente a más pixeles con un buffer.
+- [x] Leer mapas ERA5 Land y GPM IMERG v07 Final
   - Ver esto [https://developers.google.com/earth-engine/guides/python_install?hl=es-419]
-- [x] Hacer la peticion de informacion a la DGA y DMC
+  - *Monday 27-07-2026* Quedo completado ver ruta de productos satelitales
+- [x] Hacer la peticion de informacion a la DGA y DMC.
   - en este link [https://www.chileatiende.gob.cl/fichas/65778-solicitar-informacion-publica-a-la-direccion-general-de-aguas-ley-de-transparencia]
   - Falta la petición a la DMC
 
@@ -16,6 +19,7 @@
 - RUTA BBDD TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa]
   - *Wednesday 08-07-2026* ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\Exportaciones\20260708_1200"]
 - RUTA TABLAS TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa\03_Tablas]
+- RUTA PRODUCTOS SATELITALES [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales]
 
 ## Reunion con Nico y Seba
 
@@ -65,7 +69,7 @@
     - La informacion de pp y temp se obtuvo de [https://mapas2.mop.gob.cl/]
     - *Saturday 04-07-2026* Falta la estacion caldera de temperatura, pero esta en precipitacion XD esta es de la DMC.
       - Bitacora de la estacion Caldera [https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/270006]
-      - [ ] *Tuesday 21-07-2026* Curiosamente si encontré información te temperatura asi que habría que extraer esta información de la data historica.
+      - [x] *Tuesday 21-07-2026* Curiosamente si encontré información te temperatura asi que habría que extraer esta información de la data historica.
         - Se nota que empezo el 2016 -al contrario de 2005 como señala el EIA- y que esta mucho más en la Costa, que lo que muestra la imagen de EIA2025.
     - *Saturday 04-07-2026* Se encuentra que las estaciones de temperatura DGA solo estan hasta el 2017 y segun el EIA 2025, tienen informacion hasta el 2024 y eso que la obtuvimos de la pagina oficial.
       - Se busco en [https://snia.mop.gob.cl/BNAConsultas/reportes] tambien y no se encontro más info de las estaciones de temperatura y eso que dice que las estaciones de meteorologia están vigentes.
