@@ -7,6 +7,8 @@ G:\Unidades compartidas\18. Project Way\4. EJECUCIÓN Y SEGUIMIENTO
 - Clave copernicus "https://cds.climate.copernicus.eu/requests?tab=all"
   - pablozero02@gmail.com
   - @Fjz_r+,*NP75sG
+  
+  https://jasoncarloscox.com/writing/combo-mods/
 
 ## Reunion *Thursday 23-07-2026*
 
