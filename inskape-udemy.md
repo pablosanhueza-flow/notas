@@ -2,7 +2,7 @@
 
 S = Shift C = Control
 
-## Basic Shapes in inkscape
+## 3. Basic Shapes in Inkscape: The Rectangle Tool
 
 - Abrir el inskape en
 - Enseñan a hacer rectangulos y a cambiarle el color
@@ -107,3 +107,13 @@ S = Shift C = Control
 - Tengo una imagen complicada y lo que hago es sacar esa imagen de internet o algo parecido y hacerle un tracing con Braziel tool , que no es más que dibujar manualmente la linea encima de la figura.
   - Además existe una opcion de suavisar las lineas para que la figura parezca más redondeada.
 - Luego le agrego flechas y agregó texto en latex con el software Klatex Formula.
+
+## 16. Enhancing MATLAB and Python plots
+
+- Lo importante aqui es que la figura debe venir con las medidas exactas desde el programa python, ya que si no se va a deformar en el word si lo formateas de forma manual.
+- Inskape se ocupará sólo para agregar flechas, bloques o circulos para mejorar el mensaje del gráfico.
+  - Es importante que el ancho de la hoja del word sea exactamente igual a la del word (recordar los margenes)
+  - El alto de la hoja es el mismo de la figura en python.
+  - Importar la figura de python en Inskape en formato de pdf.
+  - Recuerda centrar la imagen a la hoja.
+  - Preocuparse que el font de la figura de python sean iguales al texto, y también el tamaño.
