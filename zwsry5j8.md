@@ -2,7 +2,7 @@
 
 ## LOG
 
-- [ ] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
+- [x] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
 - [ ] *MAYBE* *Monday 27-07-2026* Extender el gradiente a más pixeles con un buffer.
 - [x] Leer mapas ERA5 Land y GPM IMERG v07 Final
   - Ver esto [https://developers.google.com/earth-engine/guides/python_install?hl=es-419]
