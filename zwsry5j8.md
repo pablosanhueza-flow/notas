@@ -81,3 +81,12 @@
     - shapes files de áreas de vegetación, cuerpos de agua, suelo, nieve.
 - estimaciones de sublimación.
   - Por definir porque no sabemos bien que metodologia de recarga ocuparemos.
+
+## Reunion
+
+*Tuesday 04-08-2026*
+
+gradiente de precipitaciones:
+
+- gradiente con estaciones
+- gradiente con producto satelital
