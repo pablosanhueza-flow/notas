@@ -24,3 +24,5 @@
 - [ODS-21B-Afloramiento Piuquenes](orltsrez-mlp.md)
   - esperar datos de los puntos faltantes
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
+- [Presentacion de Pozos ABQ](yhfzuscl-mlp.md)
+- [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)

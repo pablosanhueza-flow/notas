@@ -4,15 +4,12 @@
 
 ## Next Actions
 
-- [Presentacion de Pozos ABQ](yhfzuscl-mlp.md)
 - [Kinross la Coipa](zwsry5j8.md)
-- [Capacitaciones ACHS](capacitaciones-achs.md)
-  - La de Julio
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
 - Actualizar curriculum Flow
   - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
+- [Capacitaciones ACHS](capacitaciones-achs.md)
+  - La de Agosto
 - reenviar correo u de chile
 
 ## Waiting
-
-- [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
