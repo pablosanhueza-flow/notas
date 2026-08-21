@@ -2,6 +2,8 @@
 
 S = Shift C = Control
 
+[Propuesta de indice para el manual técnico](2gyqkbjo.md)
+
 ## 3. Basic Shapes in Inkscape: The Rectangle Tool
 
 - Abrir el inskape en
@@ -117,24 +119,3 @@ S = Shift C = Control
   - Importar la figura de python en Inskape en formato de pdf.
   - Recuerda centrar la imagen a la hoja.
   - Preocuparse que el font de la figura de python sean iguales al texto, y también el tamaño.
-
-## Propuesta de indice para el manual técnico
-
-- 1.1. Introducción al diseño vectorial
-  - Conceptos clave: Gráficos vectoriales (SVG) vs. mapa de bits.
-  - El lienzo (Canvas) frente a la página impresa: importancia de los límites del área de trabajo.
-- 1.2. Configuraciones iniciales
-  - Abrir el inskape con el tipo de hoja correcta.
-  - Enseñar a modificar esta hoja.
-- 1.3 Formas básicas
-  - Presentar el rectangulo
-  - La herramienta llamada Bezier Tool
-    - Dar enfasis de porque esta herraminta hace la diferencia con powerpoint.
-    - Objetos de texto.
-    - Otros objetos.
-- 1.4. Alineacion de objetos en el programa.
-- 1.5. Microsoft word
-- 1.6. Microsoft Powerpoint
-- 1.7. Ecuaciones en Latex
-- 1.8. Creando diagramas complejos con Tracing
-- 1.9. Importando y mejorando Figuras con Python en Inskape.
