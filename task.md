@@ -6,7 +6,7 @@
 
 - pagar sebastian cuenta
 - hacer la autoevaluacion
-- [Hidrociclones](gczi9wzf_mlp.md)
+- [Hidrociclones](gczi9wzf-mlp.md)
 - [OT-62 Rajo Pelambres](7rg99q5u_mlp.md)
 - [Kinross la Coipa](zwsry5j8.md)
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
