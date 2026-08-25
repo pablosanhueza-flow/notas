@@ -4,9 +4,17 @@
 
 - La ruta del modelo D3 es esta [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\Para_REVD\D3\CB diario\C1.2.1_MBIO V17_CD2024_Est_RU+V5+PA65+EVU+AC_HC1_D3_diario_resultados.gsm]
 - Los resultados de la carpeta WIP [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\RevE]
-- Entregables aqui [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\07. Excel\07.3 Respaldo_hidrociclones_D3_E2_E3_20Ago2026]
+- Entregables excel aqui [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\07. Excel\07.3 Respaldo_hidrociclones_D3_E2_E3_20Ago2026]
+- "Name","Value"
+- "mi_code","C:\Users\Pablo Sanhueza\Desktop\01_projects\MLP_2025\02_goldsim_Rcode"
+- "mi_inf","G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\03.Memos\2025\02. Hidrociclones\Rev E"
+- "mi_wip","G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones"
 
 ## LOG
+
+*Tuesday 25-08-2026*
+
+- Encontre el excel donde esta el vector de ciclones [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\Info Correos\Datos Diagrama flujos _Dic2024_Grafico.xlsx]
 
 *Friday 21-08-2026*
 
