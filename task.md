@@ -6,6 +6,7 @@
 
 - pagar sebastian cuenta
 - hacer la autoevaluacion
+- meterse al sitio de la asignacion de proyectos
 - [Hidrociclones](gczi9wzf-mlp.md)
 - [OT-62 Rajo Pelambres](7rg99q5u_mlp.md)
 - [Kinross la Coipa](zwsry5j8.md)

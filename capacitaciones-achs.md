@@ -2,6 +2,8 @@
 
 #work
 
+[Manejo de sustancias químicas peligrosas](8ftszyfh-achs.md)
+
 ## Capacitaciones 2025
 
 - Protocolos de riegos psicosociales (16 hrs)

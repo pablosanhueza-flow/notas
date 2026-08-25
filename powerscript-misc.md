@@ -17,3 +17,4 @@
 - Leer una lirta con las direcciones que empiezan con la palabra *mi [Import-Csv -Path .\mis_variables.txt | ForEach-Object { Set-Variable -Name $*.Name -Value $*.Value } ]
 - Para iniciar una aplicacion en una nueva pestaña [wt -d . pwsh -noe -c "hx main.R"] [start pwsh -Args "-NoExit", "-Command", "hx main.R"] [pwsh -noe -c "hx main.R"]
 - Hace que existan History para los comandos [Set-PSReadLineOption -PredictionSource History -PredictionViewStyle ListView]
+- Desactivar en History [Set-PSReadLineOption -PredictionSource None]
