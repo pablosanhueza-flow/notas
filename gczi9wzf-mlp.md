@@ -12,6 +12,18 @@
 
 ## LOG
 
+*Wednesday 26-08-2026*
+
+- Vector ciclones modelo es la MEDIA ANUAL de Ciclones_from_EstDil_Inflow en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
+- Demanda Ciclones
+  - "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Ciclones\Ciclones_Demands"
+- Volumen Laguna es F14
+- 3.4	Recirculación hidrociclones es EstDil_from_LagunaTM_med_sim el cual es el F10 en esencia (excepto para el periodo historico) mas el F8.
+- Recirculación Dren a ciclones [l/s] es F8
+- Flujo estanque dilución a ciclones [l/s] es F10
+- Agua Proceso ER1 a Planta [l/s] es F11
+- Estación intermedia (Bombas Balsa) [l/s] es F9
+
 *Tuesday 25-08-2026*
 
 - Encontre el excel donde esta el vector de ciclones [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\Info Correos\Datos Diagrama flujos _Dic2024_Grafico.xlsx]
