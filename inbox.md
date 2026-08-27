@@ -19,3 +19,4 @@ G:\Unidades compartidas\18. Project Way\4. EJECUCIÓN Y SEGUIMIENTO
   - A partir de 15 pag el memo pasa a reporte.
   - el memo no tiene indice.
   - el reporte es el resultado de una investigacion, el memo es resultados de una campaña etc.
+  - ESTE CAMBIO LO HICE DESDE PWSH!!
