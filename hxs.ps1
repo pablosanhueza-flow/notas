@@ -46,14 +46,8 @@ function Hacer-Push {
 # --- LÓGICA DE EJECUCIÓN ---
 
 # Clonamos los argumentos en un arreglo para poder simular el comportamiento de 'shift'
-$listaArgumentos = @($args)
 
-while ($listaArgumentos.Count -gt 0) {
-    # Tomamos el primer elemento actual
-    $actual = $listaArgumentos[0]
-    # Eliminamos el primer elemento del arreglo (simula shift)
-    $listaArgumentos = $listaArgumentos[1..($listaArgumentos.Count - 1)]
-
+foreach ($actual in $args) {
     switch ($actual) {
         "--pull"   { Hacer-Pull }
         "--commit" { Hacer-Commit }
@@ -69,4 +63,3 @@ while ($listaArgumentos.Count -gt 0) {
         }
     }
 }
-
