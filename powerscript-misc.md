@@ -13,9 +13,12 @@
 
 
 - Para abrir todos los archivos jpg: [ls "*.jpg" | % {start $_.FullName}]
-- Crear una lista de las direcciones que empiezan por la palabra *mi [Get-Variable "mi*" | Select-Object Name, Value | Export-Csv -Path .\mis_variables.txt -NoTypeInformation -Encoding utf8]
-- Leer una lirta con las direcciones que empiezan con la palabra *mi [Import-Csv -Path .\mis_variables.txt | ForEach-Object { Set-Variable -Name $*.Name -Value $*.Value } ]
+- Crear una lista de las direcciones que empiezan por la palabra *mi [Get-Variable "mi*" | Select-Object Name, Value, Description | Export-Csv -Path .\mis_variables.txt -NoTypeInformation -Encoding utf8]
+- Leer una lirta con las direcciones que empiezan con la palabra *mi [Import-Csv -Path .\mis_variables.txt | ForEach-Object { Set-Variable -Name $_.Name -Value $_.Value -Description $_.Description }]
 - Para iniciar una aplicacion en una nueva pestaña [wt -d . pwsh -noe -c "hx main.R"] [start pwsh -Args "-NoExit", "-Command", "hx main.R"] [pwsh -noe -c "hx main.R"]
 - Hace que existan History para los comandos [Set-PSReadLineOption -PredictionSource History -PredictionViewStyle ListView]
 - Desactivar en History [Set-PSReadLineOption -PredictionSource None]
 - Start un programa excel con el comando OGV [ls *.xlsx | sort LastWriteTime | ogv -OutputMode Single | % { start $_.FullName }]
+- Guardar una variable con su descripcion [New-Variable -Name "mi_tert" -Value (pwd).Path -Description "Ruta del directorio actual"]
+- Llamar a la nueva funcion gv para que muestre la descripcion [gd mi*]
+
