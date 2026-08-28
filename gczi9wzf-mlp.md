@@ -12,6 +12,12 @@
 
 ## LOG
 
+*Thuesday 27-08-2026*
+
+- Quedo pendiente cambiar todos los textos asociados a Percentil90 por Pexc90, y dejar claro en el texto que P90 es Pexc90 y no Percentil90.
+
+
+
 *Wednesday 26-08-2026*
 
 - Vector ciclones modelo es la MEDIA ANUAL de Ciclones_from_EstDil_Inflow en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
