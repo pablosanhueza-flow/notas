@@ -4,7 +4,7 @@
 
 ## Next Actions
 
-- [Pedidas de MBIO](renzhclv-mlp.md)
+- [Kinross la Coipa](zwsry5j8.md)
 - hacer la autoevaluacion
 - meterse al sitio de la asignacion de proyectos
 - [Hidrociclones](gczi9wzf-mlp.md)
@@ -14,8 +14,9 @@
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Septiembre
 - reenviar correo u de chile
+- aprender git local para hacer cambios locales
 
 ## Waiting
 
 - [OT-62 Rajo Pelambres](7rg99q5u_mlp.md)
-- [Kinross la Coipa](zwsry5j8.md)
+- [Pedidas de MBIO](renzhclv-mlp.md)

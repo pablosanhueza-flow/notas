@@ -2,6 +2,15 @@
 
 ## LOG
 
+*viernes 28-08-2026*
+
+#task
+- se realizo otro gradiente ajustado de elevacion/precipitacion con las nuevos datos que llegaron del cliente, los resultados estan aqui (se hizo con main11.py y main12.py)
+  - ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales\CR2MET\Gradiente_prec_CR2MET_adj_2.png"]
+- nueva pedida de sebastian erazo de hacer graficos de variacion estacional de temperatura y precipitacion de la coipa.
+- agregar el la PMA de la coipa al grafico
+
+*otros*
 - [x] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
 - [x] *MAYBE* *Monday 27-07-2026* Extender el gradiente a más pixeles con un buffer.
 - [x] Leer mapas ERA5 Land y GPM IMERG v07 Final
@@ -22,6 +31,8 @@
 - RUTA PRODUCTOS SATELITALES [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales]
 
 ## Reunion con Nico y Seba
+
+
 
 *Wednesday 01-07-2026*
 
