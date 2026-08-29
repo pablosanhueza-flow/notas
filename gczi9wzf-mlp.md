@@ -6,7 +6,7 @@
 - Los resultados de la carpeta WIP [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\RevE]
 - Entregables excel aqui [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\07. Excel\07.3 Respaldo_hidrociclones_D3_E2_E3_20Ago2026]
 
-## mis_variables.txt
+## mis_variables
 "Name","Value"
 "mi_code","C:\Users\Pablo Sanhueza\Desktop\01_projects\MLP_2025\02_goldsim_Rcode"
 "mi_excel","G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\07. Excel\07.3 Respaldo_hidrociclones_D3_E2_E3_20Ago2026"
