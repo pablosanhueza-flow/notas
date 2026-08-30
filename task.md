@@ -19,9 +19,9 @@
 
 *Sunday 30-08-2026*
 
-- [ ] cortar la espiga del patio
+- [x] cortar la espiga del patio
 - [ ] ir a comprar la mira telescopia de la ducha
-- [ ] sacar la materia organica
+- [x] sacar la materia organica
 - [ ] reparar la luz
 
 ## Waiting
