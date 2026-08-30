@@ -17,6 +17,13 @@
 - reenviar correo u de chile
 - aprender git local para hacer cambios locales
 
+*Sunday 30-08-2026*
+
+- [ ] cortar la espiga del patio
+- [ ] ir a comprar la mira telescopia de la ducha
+- [ ] sacar la materia organica
+- [ ] reparar la luz
+
 ## Waiting
 
 - [OT-62 Rajo Pelambres](7rg99q5u_mlp.md)
