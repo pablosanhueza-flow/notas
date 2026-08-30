@@ -4,19 +4,20 @@
 
 ## Next Actions
 
-- [Pedidas de MBIO](renzhclv-mlp.md)
-- hacer la autoevaluacion
-- meterse al sitio de la asignacion de proyectos
+- [Kinross la Coipa](zwsry5j8.md)
 - [Hidrociclones](gczi9wzf-mlp.md)
 - [Programa Jovenes Profesionales](22uwupyo-flow.md)
-- Actualizar curriculum Flow
-  - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 - [Capacitaciones ACHS](capacitaciones-achs.md)
   - La de Septiembre
+
+## Opcionales
+- meterse al sitio de la asignacion de proyectos
+- Actualizar curriculum Flow
+  - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 - reenviar correo u de chile
-- test
+- aprender git local para hacer cambios locales
 
 ## Waiting
 
 - [OT-62 Rajo Pelambres](7rg99q5u_mlp.md)
-- [Kinross la Coipa](zwsry5j8.md)
+- [Pedidas de MBIO](renzhclv-mlp.md)

@@ -2,8 +2,19 @@
 
 ## LOG
 
+*viernes 28-08-2026*
+
+- [x] se realizo otro gradiente ajustado de elevacion/precipitacion con las nuevos datos que llegaron del cliente, los resultados estan aqui (se hizo con main11.py y main12.py)
+  - ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales\CR2MET\Gradiente_prec_CR2MET_adj_2.png"]
+- [x] nueva pedida de sebastian erazo de hacer graficos de variacion estacional de temperatura y precipitacion de la coipa.
+  - los datos de temperaturan están aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\Balance mensual3.0.xlsx], en la hoja "balance la coipa LN Mensual 2" la variable llamada "Temperatura media [°C]"
+  - los datos de precipitación estan aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\pp CONSOLIDADA TOTAL HDL.xlsx]
+  - Los resultados estan aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\00_code]
+- (opcional) agregar el la PMA de la coipa al grafico
+
+*otros*
 - [x] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
-- [x] *MAYBE* *Monday 27-07-2026* Extender el gradiente a más pixeles con un buffer.
+- [x] *Monday 27-07-2026* Extender el gradiente a más pixeles con un buffer.
 - [x] Leer mapas ERA5 Land y GPM IMERG v07 Final
   - Ver esto [https://developers.google.com/earth-engine/guides/python_install?hl=es-419]
   - *Monday 27-07-2026* Quedo completado ver ruta de productos satelitales
@@ -20,8 +31,11 @@
   - *Wednesday 08-07-2026* ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\Exportaciones\20260708_1200"]
 - RUTA TABLAS TECNOLOGIA [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\07.Tecnologia\KIN001_Catastro_LaCoipa\03_Tablas]
 - RUTA PRODUCTOS SATELITALES [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales]
+- RUTA BALANCE [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance]
 
 ## Reunion con Nico y Seba
+
+
 
 *Wednesday 01-07-2026*
 
