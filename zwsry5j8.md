@@ -2,15 +2,20 @@
 
 ## LOG
 
+*lunes 31-08-2026*
+
+- [x] Módulo de grafico de curva estacional para la precipitacion liquida y solida, aplicando el formato flow
+  - Ruta de resultado [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\00_code\02_output\main01]
+
 *viernes 28-08-2026*
 
-- [x] se realizo otro gradiente ajustado de elevacion/precipitacion con las nuevos datos que llegaron del cliente, los resultados estan aqui (se hizo con main11.py y main12.py)
-  - ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales\CR2MET\Gradiente_prec_CR2MET_adj_2.png"]
 - [x] nueva pedida de sebastian erazo de hacer graficos de variacion estacional de temperatura y precipitacion de la coipa.
   - los datos de temperaturan están aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\Balance mensual3.0.xlsx], en la hoja "balance la coipa LN Mensual 2" la variable llamada "Temperatura media [°C]"
   - los datos de precipitación estan aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\pp CONSOLIDADA TOTAL HDL.xlsx]
   - Los resultados estan aqui [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance\00_code]
 - (opcional) agregar el la PMA de la coipa al grafico
+- [x] se realizo otro gradiente ajustado de elevacion/precipitacion con las nuevos datos que llegaron del cliente, los resultados estan aqui (se hizo con main11.py y main12.py)
+  - ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales\CR2MET\Gradiente_prec_CR2MET_adj_2.png"]
 
 *otros*
 - [x] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
@@ -34,8 +39,6 @@
 - RUTA BALANCE [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\05_Balance\Balance]
 
 ## Reunion con Nico y Seba
-
-
 
 *Wednesday 01-07-2026*
 

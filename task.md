@@ -20,7 +20,7 @@
 *Sunday 30-08-2026*
 
 - [x] cortar la espiga del patio
-- [ ] ir a comprar la mira telescopia de la ducha
+- [x] ir a comprar la mira telescopia de la ducha
 - [x] sacar la materia organica
 - [ ] reparar la luz
 
