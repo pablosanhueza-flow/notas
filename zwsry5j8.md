@@ -16,6 +16,7 @@
 - (opcional) agregar el la PMA de la coipa al grafico
 - [x] se realizo otro gradiente ajustado de elevacion/precipitacion con las nuevos datos que llegaron del cliente, los resultados estan aqui (se hizo con main11.py y main12.py)
   - ["G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\03_prod_satelitales\CR2MET\Gradiente_prec_CR2MET_adj_2.png"]
+  - El pixel_id de la estacion de la Coipa es el 8, es cuenta en la primera fila abajo izquierda hacia la derecha, y luego en la segunta fila de izq hacia la derecha.
 
 *otros*
 - [x] *Monday 27-07-2026* Completar la parte de fluviometria en el informe.
