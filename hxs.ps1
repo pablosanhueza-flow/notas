@@ -12,6 +12,7 @@
    hxs --pull
    hxs --commit
    hxs --push
+    hxs --commit --push
    hxs --pull --commit --push
 
 3. ¿Cómo se activan funciones mezcladas con archivos?
