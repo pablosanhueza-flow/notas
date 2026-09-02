@@ -16,7 +16,7 @@
   - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 - reenviar correo u de chile
 - aprender git local para hacer cambios locales
-- test2
+- test3
 
 ## Waiting
 
