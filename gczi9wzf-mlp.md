@@ -32,6 +32,16 @@ tarea2: En el D3: 1- hay que corregir Precipitaciones  (mm) en la hoja Balance R
 
 4- Sacar de nuevo todos los balances diarios y mensuales b
 
+*Wednesday 26-08-2026*
+
+- Vector ciclones modelo es la MEDIA ANUAL de Ciclones_from_EstDil_Inflow en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
+- Demanda Ciclones
+  - "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Ciclones\Ciclones_Demands"
+- Volumen Laguna es F14
+- 3.4	Recirculación hidrociclones es EstDil_from_LagunaTM_med_sim el cual es el F10 en esencia (excepto para el periodo historico) mas el F8.
+- Recirculación Dren a ciclones [l/s] es F8
+- Flujo estanque dilución a ciclones [l/s] es F10
+
 ## Rutas
 
 - La ruta del modelo D3 es esta [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\Para_REVD\D3\CB diario\C1.2.1_MBIO V17_CD2024_Est_RU+V5+PA65+EVU+AC_HC1_D3_diario_resultados.gsm]
@@ -46,16 +56,3 @@ tarea2: En el D3: 1- hay que corregir Precipitaciones  (mm) en la hoja Balance R
 "mi_inf","G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\03.Memos\2025\02. Hidrociclones\Rev E"
 "mi_wip","G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones"
 
-
-
-
-
-*Wednesday 26-08-2026*
-
-- Vector ciclones modelo es la MEDIA ANUAL de Ciclones_from_EstDil_Inflow en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
-- Demanda Ciclones
-  - "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Ciclones\Ciclones_Demands"
-- Volumen Laguna es F14
-- 3.4	Recirculación hidrociclones es EstDil_from_LagunaTM_med_sim el cual es el F10 en esencia (excepto para el periodo historico) mas el F8.
-- Recirculación Dren a ciclones [l/s] es F8
-- Flujo estanque dilución a ciclones [l/s] es F10

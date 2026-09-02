@@ -2,6 +2,11 @@
 
 ## LOG
 
+*miércoles 02-09-2026*
+
+- [x] Se generaron nuevas versiones de las figuras fluviometricas
+  - ruta del resultado [G:\Unidades compartidas\03. Proyectos 2\31. KINROSS\KIN001_ModeloHDG_MDO\03.WIP\02.Hidrología\00_RevAntecedentes]
+
 *lunes 31-08-2026*
 
 - [x] Módulo de grafico de curva estacional para la precipitacion liquida y solida, aplicando el formato flow

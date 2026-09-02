@@ -26,3 +26,9 @@
 - [OT-35 MC y MN Estribo Derecho - Tranque Mauro](fwp5hpkb.md)
 - [Presentacion de Pozos ABQ](yhfzuscl-mlp.md)
 - [MLP012 AEH - Terreno Aforos Chacay](d5fi2mqp-mlp.md)
+- *Sunday 30-08-2026*
+  - [x] cortar la espiga del patio
+  - [x] ir a comprar la mira telescopia de la ducha
+  - [x] sacar la materia organica
+  - [x] reparar la luz.
+    - Completado el dia miércoles 02-09-2026

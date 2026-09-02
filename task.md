@@ -16,13 +16,7 @@
   - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 - reenviar correo u de chile
 - aprender git local para hacer cambios locales
-
-*Sunday 30-08-2026*
-
-- [x] cortar la espiga del patio
-- [x] ir a comprar la mira telescopia de la ducha
-- [x] sacar la materia organica
-- [ ] reparar la luz
+- test
 
 ## Waiting
 
