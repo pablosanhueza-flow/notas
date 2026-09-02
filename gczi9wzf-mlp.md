@@ -2,9 +2,21 @@
 
 ## LOG
 
+*miércoles 02-09-2026*
+
+- Los rutas de goldsim para las tablas del informe.
+  - Oferta hidrica "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Oferta_demanda_Ciclones_1"
+  - La ruta para los siguientes flujos es "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Balance_ciclones"
+    - Estacion intermedia es F9
+    - Volumen Tranque Mauro es F14 o verlo anual aqui "\Resultados_y_Dashboard\Resultados_Otros\Volumen Laguna TM_1"
+    - Recirculación hidrociclones son dos flujos sumados F8+F10
+- Parte2
+  - Vector ciclones modelo [l/s] es "Ciclones_from_EstDil_Inflow" en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
+
+
 *Thuesday 27-08-2026*
 
-- Quedo pendiente cambiar todos los textos asociados a Percentil90 por Pexc90, y dejar claro en el texto que P90 es Pexc90 y no Percentil90.
+- [x] Quedo pendiente cambiar todos los textos asociados a Percentil90 por Pexc90, y dejar claro en el texto que P90 es Pexc90 y no Percentil90.
 - Agua Proceso ER1 a Planta [l/s] es F11
 - Estación intermedia (Bombas Balsa) [l/s] es F9
 

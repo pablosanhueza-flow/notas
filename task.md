@@ -13,10 +13,9 @@
 ## Opcionales
 - meterse al sitio de la asignacion de proyectos
 - Actualizar curriculum Flow
-  - G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
+- G:\Unidades compartidas\02. Propuestas\00. ANTECEDENTES CURRICULARES
 - reenviar correo u de chile
 - aprender git local para hacer cambios locales
-- test3
 
 ## Waiting
 
