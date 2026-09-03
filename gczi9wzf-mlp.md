@@ -2,17 +2,25 @@
 
 ## LOG
 
+*jueves 03-09-2026*
+- No encuentro el Vector ciclones modelo A1 en los excels.
+  - mis excel de los [C:\Users\Pablo Sanhueza\Desktop\01_projects\MLP_2025\02_goldsim_Rcode\01_input] deberian ser iguales a [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\07.Entregables\07. Excel\05. Respaldo_hidrocliclones16Ene2024]. 
+  - me rendi en buscarlo, dejaré los valores de este excel, como estaban originalmente [G:\Unidades compartidas\03.2 Proyectos MLP3\MLP-OT007 Modelo Balance Integral MBIO MLP\03.WIP\02.Hidrologia\04-Hidrociclones\Info Correos\Datos Diagrama flujos _Dic2024_Grafico.xlsx] y para D3, E2 y E3 será la variable "Ciclones_from_EstDil_Inflow" en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones", se parecen mucho pero este es la Oferta y no la Demanda, no es lo correcto pero es lo que quedo en el informe. Solo de estos escenarios mencinados se obtendra los resultados de goldsim.
+    - el B2 del word no coincide con el excel pero se dejara asi en el informe.
+    - "Ciclones_from_EstDil_Inflow" es lo mismo que "Oferta_Est_Dilucion"
+
+
 *miércoles 02-09-2026*
 
-- Los rutas de goldsim para las tablas del informe.
+- Parte1: Los rutas de goldsim para las tablas del informe.
   - Oferta hidrica "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Oferta_demanda_Ciclones_1"
   - La ruta para los siguientes flujos es "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Balance_ciclones"
     - Estacion intermedia es F9
     - Volumen Tranque Mauro es F14 o verlo anual aqui "\Resultados_y_Dashboard\Resultados_Otros\Volumen Laguna TM_1"
     - Recirculación hidrociclones son dos flujos sumados F8+F10
 - Parte2
-  - Vector ciclones modelo [l/s] es "Ciclones_from_EstDil_Inflow" en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones"
-
+  - Vector ciclones modelo (l/s) es "Ciclones_Dilucion_Lamas_dem" en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Oferta_demanda_Ciclones_1"
+    - yo penstaba que era "Ciclones_from_EstDil_Inflow" en "\Balance_Global\Mauro_Caimanes\Tranque_Mauro\Resultados_esquema\Agua_ciclones", se parecen mucho pero este es la Oferta y no la Demanda.
 
 *Thuesday 27-08-2026*
 
