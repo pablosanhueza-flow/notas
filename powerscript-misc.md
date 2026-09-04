@@ -21,4 +21,4 @@
 - Hace que existan History para los comandos [Set-PSReadLineOption -PredictionSource History -PredictionViewStyle ListView]
 - Desactivar en History [Set-PSReadLineOption -PredictionSource None]
 - Start un programa excel con el comando OGV [ls *.xlsx | sort LastWriteTime | ogv -OutputMode Single | % { start $_.FullName }]
-
+- Copiar archivos con OGV [ls .\folder1 | ogv -outputmode multiple | cp -des folder2]
