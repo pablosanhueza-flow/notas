@@ -4,6 +4,7 @@ HOY ES UN BUEN DÍA PARA LEER
 
 - Extraños Eones de Emilio Bueso
 - Contagio (Spillover) – David Quammen
+- Dungeon Crawler Carl Series
 
 ## Anime
 
