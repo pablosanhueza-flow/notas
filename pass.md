@@ -5,6 +5,9 @@ Pa710XXX
 8732
 9 de febrero solo ópticos
 
+- Typist
+  Pa324567%
+
 - Madre Movistar
   Ximena2380% 
 - Madre gmail
