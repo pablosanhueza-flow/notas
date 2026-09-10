@@ -2,6 +2,7 @@
 
 ## Instalacion
 
-1. winget install Myriad-Dreamin.Tinymist
-   winget install Myriad-Dreamin.TinymistViewer
-2. 
+- winget install Myriad-Dreamin.Tinymist
+  winget install Myriad-Dreamin.TinymistViewer
+- para visualizar: [tinymist preview main.typ]
+- para exportar a pdf [tinymist lsp export main.typ]
