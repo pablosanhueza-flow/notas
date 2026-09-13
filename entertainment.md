@@ -6,6 +6,10 @@ HOY ES UN BUEN DÍA PARA LEER
 - Contagio (Spillover) – David Quammen
 - Dungeon Crawler Carl Series
 
+## Movies
+
+- Hidden
+
 ## Anime
 
 - The angel next spoils me a rotten
