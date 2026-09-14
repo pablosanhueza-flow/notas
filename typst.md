@@ -1,5 +1,19 @@
 # typst
 
+## TODO
+
+- [ ] Foto flow en el encabezado
+- [ ] Texto en el pie de pagina:
+  - FLOW-SQM005-REP-HDG-001R0
+  - Informe de Investigación Fase II del Plan de Contingencias punto L2-27
+  - 15 de julio de 2026
+  - Página 1
+- [ ] level 1. heading: 18pts, negrita, mayusculas, justificado, espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
+- [ ] level 2. heading: 14pts, negrita, mayusculas, jusfificado espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
+- [ ] level 3. heading: 12pts, negrita, mayusculas, jusfificado espaciado anterior 18 pts, posterior 12 pts, numeracion 1.1.1.1.
+
+
+
 ## Instalacion
 
 - winget install Myriad-Dreamin.Tinymist
@@ -33,7 +47,7 @@ typstExtraArgs = ["main.typ"]
 # # Conexión directa a la API pública y gratuita de LanguageTool en español
 # config = { backend = "server", host = "https://api.languagetool.org", port = 443, arguments = ["--lang", "es"], root= "C:\Users\Pablo Sanhueza\Desktop\manual"}
 [language-server.typst-languagetool]
-command = "C:/Users/Pablo Sanhueza/.cargo/bin/typst-languagetool-lsp.exe"
+ command = "C:/Users/Pablo Sanhueza/.cargo/bin/typst-languagetool-lsp.exe"
 args = ["lsp", "--default-language", "es"]
 
 # Configuración del backend de LanguageTool
