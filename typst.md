@@ -2,17 +2,16 @@
 
 ## TODO
 
-- [ ] Foto flow en el encabezado
+- [x] level 1. heading: 18pts, negrita, mayusculas, justificado, espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
+- [x] level 2. heading: 14pts, negrita, mayusculas, jusfificado espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
+- [x] level 3. heading: 12pts, negrita, mayusculas, jusfificado espaciado anterior 18 pts, posterior 12 pts, numeracion 1.1.1.1.
+  - Se dejo el espaciado igual que los anterioser
+- [x] Foto flow en el encabezado
 - [ ] Texto en el pie de pagina:
   - FLOW-SQM005-REP-HDG-001R0
   - Informe de Investigación Fase II del Plan de Contingencias punto L2-27
   - 15 de julio de 2026
   - Página 1
-- [ ] level 1. heading: 18pts, negrita, mayusculas, justificado, espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
-- [ ] level 2. heading: 14pts, negrita, mayusculas, jusfificado espaciado anterios 12 pts, posterior 6 pts, numeracion 1.1.1.1.
-- [ ] level 3. heading: 12pts, negrita, mayusculas, jusfificado espaciado anterior 18 pts, posterior 12 pts, numeracion 1.1.1.1.
-
-
 
 ## Instalacion
 
